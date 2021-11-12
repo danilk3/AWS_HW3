@@ -16,7 +16,7 @@ def error_message1():
 
 
 def error_message2():
-    print("Incorrect number of plants! Set 0 < number <= 10000.\n")
+    print("Incorrect number of movies! Set 0 < number <= 10000.\n")
 
 
 def error_message3():
