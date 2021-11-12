@@ -38,10 +38,10 @@ if __name__ == '__main__':
 
     if sys.argv[1] == '-f':
         in_file = open(sys.argv[2], 'r')
-        plants_array = in_file.read().split("\n")
+        movies_array = in_file.read().split("\n")
         in_file.close()
         print("From file start")
-        container.in_from_file(cont, plants_array)
+        container.in_from_file(cont, movies_array)
         print("From file end")
     elif sys.argv[1] == '-n':
         size = int(sys.argv[2])
