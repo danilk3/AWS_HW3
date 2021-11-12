@@ -1,0 +1,1001 @@
+Container contains 1000 elements:
+1: It is a cartoon, name = mtRQwBcQozgt, release date = 1950, way to create = PLASTIC comparison parameter = 162.5
+2: It is a fiction, name = VlpuypgvxFhe, release date = 1950, director = fYCXYodcnDGT comparison parameter = 162.5
+3: It is a documentary, name = RSsMUFnNFXjU, release date = 1950, minutes = 69 comparison parameter = 162.5
+4: It is a fiction, name = gbkSXlAGbKyW, release date = 1950, director = cjmPbKeYtZzv comparison parameter = 162.5
+5: It is a fiction, name = QGqMZMYdAdQN, release date = 1950, director = ZUDftYaqXuQU comparison parameter = 162.5
+6: It is a documentary, name = fJHglpiPviVE, release date = 1950, minutes = 101 comparison parameter = 162.5
+7: It is a fiction, name = IPGuSlSUjIPg, release date = 1950, director = GQQCgaxTPqwX comparison parameter = 162.5
+8: It is a cartoon, name = uUCpUyIDDomW, release date = 1950, way to create = DRAWED comparison parameter = 162.5
+9: It is a fiction, name = JTEWvbgeMfGo, release date = 1950, director = mBTTjLRJdVED comparison parameter = 162.5
+10: It is a cartoon, name = lGoukWhwOjfm, release date = 1950, way to create = DRAWED comparison parameter = 162.5
+11: It is a documentary, name = vGhUAAdgJmSH, release date = 1950, minutes = 137 comparison parameter = 162.5
+12: It is a fiction, name = ozTpyMMbZntH, release date = 1950, director = RyTEbWiypuLw comparison parameter = 162.5
+13: It is a cartoon, name = OjpShgICpewL, release date = 1950, way to create = DRAWED comparison parameter = 162.5
+14: It is a documentary, name = IWDJhgKUWZmE, release date = 1950, minutes = 128 comparison parameter = 162.5
+15: It is a documentary, name = fpgHTMiaRApn, release date = 1950, minutes = 235 comparison parameter = 162.5
+16: It is a cartoon, name = fxEBPcXJTldQ, release date = 1950, way to create = PUPPET comparison parameter = 162.5
+17: It is a cartoon, name = llablFpcklnU, release date = 1951, way to create = PLASTIC comparison parameter = 162.58333333333334
+18: It is a fiction, name = QyymdEfQPsmT, release date = 1951, director = jIhPBYmYsihw comparison parameter = 162.58333333333334
+19: It is a fiction, name = YdpZRipiZYos, release date = 1951, director = jykDYQchKhFR comparison parameter = 162.58333333333334
+20: It is a cartoon, name = OTyrDQxHjCRm, release date = 1951, way to create = DRAWED comparison parameter = 162.58333333333334
+21: It is a cartoon, name = tVrVQBJaQeqr, release date = 1951, way to create = PUPPET comparison parameter = 162.58333333333334
+22: It is a cartoon, name = xIjIXDdavunv, release date = 1951, way to create = PLASTIC comparison parameter = 162.58333333333334
+23: It is a documentary, name = wxqFFsKMsQAx, release date = 1951, minutes = 167 comparison parameter = 162.58333333333334
+24: It is a documentary, name = JRmrvWCZzSNQ, release date = 1951, minutes = 65 comparison parameter = 162.58333333333334
+25: It is a documentary, name = nQfaxziCCJJJ, release date = 1951, minutes = 44 comparison parameter = 162.58333333333334
+26: It is a cartoon, name = SzpnSclaBkeX, release date = 1951, way to create = DRAWED comparison parameter = 162.58333333333334
+27: It is a cartoon, name = vRsgmLyAbSUe, release date = 1951, way to create = DRAWED comparison parameter = 162.58333333333334
+28: It is a cartoon, name = AQUFqqrHhCoG, release date = 1951, way to create = DRAWED comparison parameter = 162.58333333333334
+29: It is a fiction, name = QuEpXQAhmbgm, release date = 1951, director = EjLZmBMaxPki comparison parameter = 162.58333333333334
+30: It is a fiction, name = IDXIEMBqgbDu, release date = 1951, director = pBRDmdXNBRzk comparison parameter = 162.58333333333334
+31: It is a documentary, name = SkALjJIiyDAt, release date = 1951, minutes = 23 comparison parameter = 162.58333333333334
+32: It is a fiction, name = xFCNbNYWitrn, release date = 1951, director = CwgBEvKrWDLI comparison parameter = 162.58333333333334
+33: It is a fiction, name = PFqwqpQARcwp, release date = 1952, director = FLGlsRcKeOEC comparison parameter = 162.66666666666666
+34: It is a fiction, name = eyhrhNqxOUIM, release date = 1952, director = RSaDMYReJsat comparison parameter = 162.66666666666666
+35: It is a documentary, name = XfRiPYVBEERu, release date = 1952, minutes = 172 comparison parameter = 162.66666666666666
+36: It is a fiction, name = YFprvIdaxSDz, release date = 1952, director = qKmzDefpRLyq comparison parameter = 162.66666666666666
+37: It is a fiction, name = ssspQuISBJzK, release date = 1952, director = uRhOjetnXCyI comparison parameter = 162.66666666666666
+38: It is a documentary, name = LSxDQPlMrgpB, release date = 1952, minutes = 190 comparison parameter = 162.66666666666666
+39: It is a cartoon, name = gsMNAdQuMFNV, release date = 1952, way to create = PUPPET comparison parameter = 162.66666666666666
+40: It is a cartoon, name = shCfophSVLhm, release date = 1952, way to create = DRAWED comparison parameter = 162.66666666666666
+41: It is a fiction, name = NaqgTOXBOyWa, release date = 1952, director = sQenEVSfIsAU comparison parameter = 162.66666666666666
+42: It is a fiction, name = WjdWtMCmGhRn, release date = 1952, director = CJixwwmbdDWT comparison parameter = 162.66666666666666
+43: It is a documentary, name = xSBHcAHVMVcl, release date = 1952, minutes = 44 comparison parameter = 162.66666666666666
+44: It is a fiction, name = tivcglVPjGww, release date = 1952, director = OoMJXiBQUeNF comparison parameter = 162.66666666666666
+45: It is a documentary, name = nJanOydVDFYs, release date = 1952, minutes = 36 comparison parameter = 162.66666666666666
+46: It is a documentary, name = HXKtYNbqGKfM, release date = 1952, minutes = 122 comparison parameter = 162.66666666666666
+47: It is a cartoon, name = GXsbsEXVHPVz, release date = 1952, way to create = PUPPET comparison parameter = 162.66666666666666
+48: It is a fiction, name = beZNFEXOMBob, release date = 1952, director = tWOHQXWihbAH comparison parameter = 162.66666666666666
+49: It is a cartoon, name = OzHqjtkBmnLa, release date = 1952, way to create = DRAWED comparison parameter = 162.66666666666666
+50: It is a fiction, name = eeyQzGaECqTJ, release date = 1952, director = DCMAjbfVhZJi comparison parameter = 162.66666666666666
+51: It is a fiction, name = LnlEMqXQQWZf, release date = 1953, director = aLDublqIFuWE comparison parameter = 162.75
+52: It is a cartoon, name = HMRTxOqWcxgb, release date = 1953, way to create = DRAWED comparison parameter = 162.75
+53: It is a cartoon, name = hBWrFHMqZCri, release date = 1953, way to create = DRAWED comparison parameter = 162.75
+54: It is a documentary, name = vvFpSmWFZVWU, release date = 1953, minutes = 12 comparison parameter = 162.75
+55: It is a documentary, name = KNORHsTSkpZd, release date = 1953, minutes = 37 comparison parameter = 162.75
+56: It is a cartoon, name = KhNNZHgwBzuZ, release date = 1953, way to create = DRAWED comparison parameter = 162.75
+57: It is a cartoon, name = WPibxMiWkmvu, release date = 1953, way to create = PUPPET comparison parameter = 162.75
+58: It is a cartoon, name = mDXBexULdHQM, release date = 1953, way to create = DRAWED comparison parameter = 162.75
+59: It is a cartoon, name = LThAgLVADoSo, release date = 1953, way to create = PUPPET comparison parameter = 162.75
+60: It is a cartoon, name = CRSKtgwADQjV, release date = 1953, way to create = PUPPET comparison parameter = 162.75
+61: It is a cartoon, name = SMMzoixuhzOo, release date = 1953, way to create = DRAWED comparison parameter = 162.75
+62: It is a documentary, name = zzvVYAjUwQgl, release date = 1953, minutes = 236 comparison parameter = 162.75
+63: It is a documentary, name = HzFsEEreYxSc, release date = 1953, minutes = 225 comparison parameter = 162.75
+64: It is a documentary, name = oiHUKdoXIHzH, release date = 1953, minutes = 1 comparison parameter = 162.75
+65: It is a fiction, name = wWIzxKHEzGEK, release date = 1954, director = ygkuqVYntPTu comparison parameter = 162.83333333333334
+66: It is a fiction, name = pRaIJTgYkafQ, release date = 1954, director = TNlxALLSCrIX comparison parameter = 162.83333333333334
+67: It is a fiction, name = pQwMjtkSWjPk, release date = 1954, director = vmLZWqRnxsMQ comparison parameter = 162.83333333333334
+68: It is a cartoon, name = DiUoQLQCrSjt, release date = 1954, way to create = DRAWED comparison parameter = 162.83333333333334
+69: It is a cartoon, name = WjRLINrsCUhK, release date = 1954, way to create = PLASTIC comparison parameter = 162.83333333333334
+70: It is a documentary, name = dvrxRIyPGPHy, release date = 1954, minutes = 225 comparison parameter = 162.83333333333334
+71: It is a fiction, name = HWMgLBqidDgk, release date = 1954, director = LbKEVbpeQtlG comparison parameter = 162.83333333333334
+72: It is a fiction, name = HjGpGprUSnlI, release date = 1954, director = AbUayecNYRDg comparison parameter = 162.83333333333334
+73: It is a documentary, name = SpmZmwbrhkEO, release date = 1954, minutes = 207 comparison parameter = 162.83333333333334
+74: It is a documentary, name = IvjhxUMfUcae, release date = 1954, minutes = 147 comparison parameter = 162.83333333333334
+75: It is a fiction, name = LDAleCIIvTpE, release date = 1954, director = jyzbDURsPNcP comparison parameter = 162.83333333333334
+76: It is a cartoon, name = IztfDtWjZKPG, release date = 1954, way to create = PLASTIC comparison parameter = 162.83333333333334
+77: It is a cartoon, name = JnBvPrPqAUOd, release date = 1954, way to create = DRAWED comparison parameter = 162.83333333333334
+78: It is a fiction, name = xuLpNgOQmckY, release date = 1955, director = uShierbeAVJE comparison parameter = 162.91666666666666
+79: It is a fiction, name = IWnQGfTtacgS, release date = 1955, director = qzrLNNnCsssm comparison parameter = 162.91666666666666
+80: It is a fiction, name = VCsOJOhaOhCZ, release date = 1955, director = ZuYGatkGMcfH comparison parameter = 162.91666666666666
+81: It is a fiction, name = PpkmOHHSjkZf, release date = 1955, director = FyrrfDaufqBb comparison parameter = 162.91666666666666
+82: It is a documentary, name = gCoKFzZbWYFk, release date = 1955, minutes = 64 comparison parameter = 162.91666666666666
+83: It is a fiction, name = KGpQTsoLsdyQ, release date = 1955, director = ctvBGpxxXOdh comparison parameter = 162.91666666666666
+84: It is a cartoon, name = qlQkwNwYIIPA, release date = 1956, way to create = PLASTIC comparison parameter = 163.0
+85: It is a fiction, name = cebhDUlwHxPt, release date = 1956, director = QsrmCTZFFWgJ comparison parameter = 163.0
+86: It is a fiction, name = HNnigRLBVkmy, release date = 1956, director = ZOsZDMoSsaOg comparison parameter = 163.0
+87: It is a fiction, name = LtksSAYiXbNZ, release date = 1956, director = jryFsOsjNsfN comparison parameter = 163.0
+88: It is a fiction, name = gzWQvYjzpCLW, release date = 1956, director = TAfDUdCmSQrx comparison parameter = 163.0
+89: It is a documentary, name = HwAKwQrtlYNT, release date = 1956, minutes = 170 comparison parameter = 163.0
+90: It is a cartoon, name = SftJXfrkCZNn, release date = 1956, way to create = DRAWED comparison parameter = 163.0
+91: It is a cartoon, name = OiSpsblhvjlW, release date = 1956, way to create = PLASTIC comparison parameter = 163.0
+92: It is a documentary, name = eOygyutxwYeh, release date = 1956, minutes = 122 comparison parameter = 163.0
+93: It is a cartoon, name = cYBcuyBiUocG, release date = 1956, way to create = PLASTIC comparison parameter = 163.0
+94: It is a cartoon, name = zhIwLriXaOUf, release date = 1956, way to create = PUPPET comparison parameter = 163.0
+95: It is a cartoon, name = OLSSbNiedAPT, release date = 1956, way to create = DRAWED comparison parameter = 163.0
+96: It is a cartoon, name = grxbfFLfgoFA, release date = 1957, way to create = DRAWED comparison parameter = 163.08333333333334
+97: It is a cartoon, name = tzKYpnpNbqBx, release date = 1957, way to create = DRAWED comparison parameter = 163.08333333333334
+98: It is a cartoon, name = olqDIzBCprBP, release date = 1957, way to create = PLASTIC comparison parameter = 163.08333333333334
+99: It is a fiction, name = dtHdyVVLrAey, release date = 1957, director = bbLEHDnvgwkH comparison parameter = 163.08333333333334
+100: It is a fiction, name = HpbnILVaDNUY, release date = 1957, director = ugJChVTrvhBo comparison parameter = 163.08333333333334
+101: It is a fiction, name = YIMgQYSVuTjq, release date = 1957, director = qFZODkArXADZ comparison parameter = 163.08333333333334
+102: It is a documentary, name = BbVAUxpQvbqb, release date = 1957, minutes = 2 comparison parameter = 163.08333333333334
+103: It is a fiction, name = CoPehxwTPXeZ, release date = 1957, director = amLHvwlDKBMl comparison parameter = 163.08333333333334
+104: It is a fiction, name = ljkIjfOzNgBW, release date = 1957, director = rehBYqgDGqtS comparison parameter = 163.08333333333334
+105: It is a cartoon, name = QHbdoRSkqghA, release date = 1957, way to create = PUPPET comparison parameter = 163.08333333333334
+106: It is a documentary, name = LjRQfAxFFEAw, release date = 1957, minutes = 4 comparison parameter = 163.08333333333334
+107: It is a cartoon, name = pFSXcoHXfVhd, release date = 1957, way to create = DRAWED comparison parameter = 163.08333333333334
+108: It is a cartoon, name = kVHOupMlSxHE, release date = 1957, way to create = PUPPET comparison parameter = 163.08333333333334
+109: It is a documentary, name = sZlMjEQAYTKD, release date = 1957, minutes = 192 comparison parameter = 163.08333333333334
+110: It is a documentary, name = PwolVprdFZOR, release date = 1957, minutes = 181 comparison parameter = 163.08333333333334
+111: It is a fiction, name = bPZqBLnIwXKb, release date = 1957, director = zHdggAfWMjtC comparison parameter = 163.08333333333334
+112: It is a documentary, name = tlZTDidrvgLf, release date = 1957, minutes = 134 comparison parameter = 163.08333333333334
+113: It is a fiction, name = RUqVRFTMifZa, release date = 1958, director = yxzlxGBrjkoE comparison parameter = 163.16666666666666
+114: It is a fiction, name = TJNBDfCmCovM, release date = 1958, director = KvUHDXyjmYMA comparison parameter = 163.16666666666666
+115: It is a fiction, name = KdMnilfjWFRP, release date = 1958, director = aMMoLplUHJpN comparison parameter = 163.16666666666666
+116: It is a fiction, name = SfmttQwIpETw, release date = 1958, director = YGDpiIqTRwbV comparison parameter = 163.16666666666666
+117: It is a documentary, name = qCEKzoRBezNh, release date = 1958, minutes = 34 comparison parameter = 163.16666666666666
+118: It is a fiction, name = WZQsDpQSfGkz, release date = 1958, director = LFVxxsHoXvhD comparison parameter = 163.16666666666666
+119: It is a cartoon, name = ygvSvQjWJKgw, release date = 1958, way to create = PLASTIC comparison parameter = 163.16666666666666
+120: It is a documentary, name = AhSuMjDJBtmM, release date = 1958, minutes = 238 comparison parameter = 163.16666666666666
+121: It is a cartoon, name = HhzKPYTjZdzR, release date = 1958, way to create = DRAWED comparison parameter = 163.16666666666666
+122: It is a documentary, name = xFxfDGysFHgP, release date = 1958, minutes = 169 comparison parameter = 163.16666666666666
+123: It is a fiction, name = nFZlAnuxPfqo, release date = 1958, director = QOfILjWeonnM comparison parameter = 163.16666666666666
+124: It is a documentary, name = QpUCbNdDmKNq, release date = 1958, minutes = 87 comparison parameter = 163.16666666666666
+125: It is a cartoon, name = ahSbLaXzzfEb, release date = 1958, way to create = PUPPET comparison parameter = 163.16666666666666
+126: It is a cartoon, name = ApgKeziUJuND, release date = 1958, way to create = DRAWED comparison parameter = 163.16666666666666
+127: It is a cartoon, name = IkVdsoiApEuV, release date = 1958, way to create = PUPPET comparison parameter = 163.16666666666666
+128: It is a cartoon, name = IfvBIvqPoDWv, release date = 1958, way to create = DRAWED comparison parameter = 163.16666666666666
+129: It is a cartoon, name = RikBsRPzMQrV, release date = 1959, way to create = DRAWED comparison parameter = 163.25
+130: It is a documentary, name = kveMGBiOrVCh, release date = 1959, minutes = 189 comparison parameter = 163.25
+131: It is a cartoon, name = JtiImHkjwutQ, release date = 1959, way to create = PLASTIC comparison parameter = 163.25
+132: It is a documentary, name = vySVOciEeGBu, release date = 1959, minutes = 135 comparison parameter = 163.25
+133: It is a cartoon, name = NtIkaXfFYSnY, release date = 1959, way to create = PUPPET comparison parameter = 163.25
+134: It is a cartoon, name = tdnRGmYlOwxo, release date = 1959, way to create = DRAWED comparison parameter = 163.25
+135: It is a cartoon, name = WhfMHCMYbUJO, release date = 1959, way to create = PUPPET comparison parameter = 163.25
+136: It is a fiction, name = qyoKyeUICayV, release date = 1959, director = kTEXMyqsAeSP comparison parameter = 163.25
+137: It is a cartoon, name = SKQMwdfoEUVK, release date = 1959, way to create = DRAWED comparison parameter = 163.25
+138: It is a cartoon, name = CDUKCAEiTgvq, release date = 1959, way to create = PUPPET comparison parameter = 163.25
+139: It is a fiction, name = RHaTghsIxXmg, release date = 1959, director = jRFSRCSPdvLq comparison parameter = 163.25
+140: It is a fiction, name = pPubvPQreEKV, release date = 1959, director = bQbguLfRfiTP comparison parameter = 163.25
+141: It is a cartoon, name = SUanPczZBNlF, release date = 1959, way to create = DRAWED comparison parameter = 163.25
+142: It is a documentary, name = sCyilXKpvidI, release date = 1959, minutes = 87 comparison parameter = 163.25
+143: It is a cartoon, name = HzUCPSKxfAJw, release date = 1959, way to create = DRAWED comparison parameter = 163.25
+144: It is a documentary, name = eZwNayBheHlw, release date = 1959, minutes = 54 comparison parameter = 163.25
+145: It is a cartoon, name = qMHGDhMnGqqm, release date = 1959, way to create = DRAWED comparison parameter = 163.25
+146: It is a documentary, name = bjmEVwuRDGaA, release date = 1960, minutes = 91 comparison parameter = 163.33333333333334
+147: It is a documentary, name = CWuWoaChEEPO, release date = 1960, minutes = 26 comparison parameter = 163.33333333333334
+148: It is a cartoon, name = PcypIAPhrree, release date = 1960, way to create = DRAWED comparison parameter = 163.33333333333334
+149: It is a documentary, name = DmXAKRMOYKkW, release date = 1960, minutes = 54 comparison parameter = 163.33333333333334
+150: It is a cartoon, name = VKctSaGEIAOj, release date = 1960, way to create = PUPPET comparison parameter = 163.33333333333334
+151: It is a cartoon, name = DCnYjQXVJPcK, release date = 1960, way to create = PUPPET comparison parameter = 163.33333333333334
+152: It is a cartoon, name = KOkZJaGUSJWh, release date = 1960, way to create = DRAWED comparison parameter = 163.33333333333334
+153: It is a documentary, name = FJHhgiFnyjCm, release date = 1960, minutes = 4 comparison parameter = 163.33333333333334
+154: It is a documentary, name = iVYtrQtObFYQ, release date = 1960, minutes = 64 comparison parameter = 163.33333333333334
+155: It is a fiction, name = jXwdEzLPeexK, release date = 1960, director = fUEbobbNNeoa comparison parameter = 163.33333333333334
+156: It is a documentary, name = GAUhOUVcebZN, release date = 1960, minutes = 55 comparison parameter = 163.33333333333334
+157: It is a cartoon, name = fiKbNTAYHMZz, release date = 1960, way to create = PUPPET comparison parameter = 163.33333333333334
+158: It is a documentary, name = OUkUqsGCCMpV, release date = 1960, minutes = 114 comparison parameter = 163.33333333333334
+159: It is a cartoon, name = ooBRphskFKaI, release date = 1960, way to create = PUPPET comparison parameter = 163.33333333333334
+160: It is a fiction, name = HYTAJxqzclEO, release date = 1961, director = JipDAhkzvPlW comparison parameter = 163.41666666666666
+161: It is a fiction, name = UgpmdlivxKxN, release date = 1961, director = QlXFHhuXWkvZ comparison parameter = 163.41666666666666
+162: It is a fiction, name = bZGZLovVBxjk, release date = 1961, director = GuPrCFwgDSLo comparison parameter = 163.41666666666666
+163: It is a cartoon, name = lWYUCeAXJVhM, release date = 1961, way to create = PLASTIC comparison parameter = 163.41666666666666
+164: It is a documentary, name = ZcwuBYZLwXBV, release date = 1961, minutes = 1 comparison parameter = 163.41666666666666
+165: It is a cartoon, name = lMHbldJnnDds, release date = 1961, way to create = DRAWED comparison parameter = 163.41666666666666
+166: It is a fiction, name = IuSDZWMPhXmn, release date = 1961, director = YScGkAzbTfLn comparison parameter = 163.41666666666666
+167: It is a cartoon, name = OepTHHOLFuqe, release date = 1961, way to create = PLASTIC comparison parameter = 163.41666666666666
+168: It is a documentary, name = sQfPGtoHhgUl, release date = 1961, minutes = 224 comparison parameter = 163.41666666666666
+169: It is a documentary, name = uOmZTryDhlUB, release date = 1961, minutes = 195 comparison parameter = 163.41666666666666
+170: It is a documentary, name = pIGJLuUWrCzz, release date = 1961, minutes = 40 comparison parameter = 163.41666666666666
+171: It is a documentary, name = axXferykjxDr, release date = 1962, minutes = 52 comparison parameter = 163.5
+172: It is a cartoon, name = rAoRIVkDSqfI, release date = 1962, way to create = PLASTIC comparison parameter = 163.5
+173: It is a documentary, name = BritxgQZYgTY, release date = 1962, minutes = 184 comparison parameter = 163.5
+174: It is a documentary, name = BgmouVdoyKxw, release date = 1962, minutes = 195 comparison parameter = 163.5
+175: It is a cartoon, name = ODtXlRFWkJyJ, release date = 1962, way to create = PLASTIC comparison parameter = 163.5
+176: It is a cartoon, name = OnEzwZMgSUhd, release date = 1962, way to create = PUPPET comparison parameter = 163.5
+177: It is a documentary, name = gRXyvEGSEHFi, release date = 1963, minutes = 118 comparison parameter = 163.58333333333334
+178: It is a fiction, name = ZgbIKlEzUQOP, release date = 1963, director = VzMzNUIYNCnM comparison parameter = 163.58333333333334
+179: It is a documentary, name = DzXkZjQNLxIK, release date = 1963, minutes = 179 comparison parameter = 163.58333333333334
+180: It is a cartoon, name = EUjJalPTeMgt, release date = 1963, way to create = PLASTIC comparison parameter = 163.58333333333334
+181: It is a cartoon, name = BmBMDbkPpHHm, release date = 1963, way to create = PLASTIC comparison parameter = 163.58333333333334
+182: It is a cartoon, name = oDjtcMVzNJdq, release date = 1963, way to create = DRAWED comparison parameter = 163.58333333333334
+183: It is a documentary, name = kXHspNnssdqO, release date = 1963, minutes = 231 comparison parameter = 163.58333333333334
+184: It is a documentary, name = cpEUfAyiQPZv, release date = 1963, minutes = 134 comparison parameter = 163.58333333333334
+185: It is a documentary, name = FqLdsCYCkvGX, release date = 1963, minutes = 229 comparison parameter = 163.58333333333334
+186: It is a documentary, name = lmlniLiYDfAN, release date = 1963, minutes = 99 comparison parameter = 163.58333333333334
+187: It is a fiction, name = qOSnUQvHTlDa, release date = 1963, director = SogFLTmARsUG comparison parameter = 163.58333333333334
+188: It is a cartoon, name = gHdYjzvMzATl, release date = 1963, way to create = DRAWED comparison parameter = 163.58333333333334
+189: It is a documentary, name = uOrRAFUbnhYr, release date = 1963, minutes = 137 comparison parameter = 163.58333333333334
+190: It is a cartoon, name = zZfUWaFHzkaY, release date = 1963, way to create = PLASTIC comparison parameter = 163.58333333333334
+191: It is a documentary, name = FlBUZXHXzJRj, release date = 1963, minutes = 180 comparison parameter = 163.58333333333334
+192: It is a documentary, name = GlgoCbcBoEvR, release date = 1963, minutes = 169 comparison parameter = 163.58333333333334
+193: It is a documentary, name = iknPYzOdtQRJ, release date = 1964, minutes = 215 comparison parameter = 163.66666666666666
+194: It is a fiction, name = cuHmCotKCnwb, release date = 1964, director = IfEgpwcXNyFt comparison parameter = 163.66666666666666
+195: It is a documentary, name = ZErOfqASYIlq, release date = 1964, minutes = 130 comparison parameter = 163.66666666666666
+196: It is a documentary, name = IQgVSKogomqw, release date = 1964, minutes = 239 comparison parameter = 163.66666666666666
+197: It is a documentary, name = MXerUZuJkVir, release date = 1964, minutes = 179 comparison parameter = 163.66666666666666
+198: It is a fiction, name = WmPnLPoqdAQQ, release date = 1964, director = zZqxheiaXcEu comparison parameter = 163.66666666666666
+199: It is a cartoon, name = pVetGtxHKaCF, release date = 1964, way to create = DRAWED comparison parameter = 163.66666666666666
+200: It is a cartoon, name = dgLJYSXZDxsa, release date = 1964, way to create = PLASTIC comparison parameter = 163.66666666666666
+201: It is a cartoon, name = yXoHUoVzBAxg, release date = 1964, way to create = DRAWED comparison parameter = 163.66666666666666
+202: It is a documentary, name = GWJtWMUVLGGP, release date = 1964, minutes = 29 comparison parameter = 163.66666666666666
+203: It is a cartoon, name = HBxVfLEQviER, release date = 1964, way to create = DRAWED comparison parameter = 163.66666666666666
+204: It is a documentary, name = VgsMXahUrZwQ, release date = 1965, minutes = 120 comparison parameter = 163.75
+205: It is a documentary, name = KhCWMbhAmXvI, release date = 1965, minutes = 144 comparison parameter = 163.75
+206: It is a fiction, name = uufDUviHnaMa, release date = 1965, director = WVPjjbZdoRob comparison parameter = 163.75
+207: It is a fiction, name = eCraHzqBqTTM, release date = 1965, director = zTjkETXaFsxh comparison parameter = 163.75
+208: It is a cartoon, name = fUhNbJDVYWxZ, release date = 1965, way to create = DRAWED comparison parameter = 163.75
+209: It is a cartoon, name = sDaWEbnvinRk, release date = 1965, way to create = PLASTIC comparison parameter = 163.75
+210: It is a fiction, name = iSFVUxZZkFAE, release date = 1965, director = hLpRRVzbEWQP comparison parameter = 163.75
+211: It is a fiction, name = UZxxGeoYkpfD, release date = 1965, director = dIQEnGfUKcqo comparison parameter = 163.75
+212: It is a documentary, name = RALIWWnUOxGM, release date = 1965, minutes = 60 comparison parameter = 163.75
+213: It is a documentary, name = QOxGzIsuKLqS, release date = 1965, minutes = 203 comparison parameter = 163.75
+214: It is a cartoon, name = yGERfiIPlzBC, release date = 1966, way to create = PLASTIC comparison parameter = 163.83333333333334
+215: It is a documentary, name = eFWqGEKHFLTh, release date = 1966, minutes = 4 comparison parameter = 163.83333333333334
+216: It is a cartoon, name = XsMUrqyLubhh, release date = 1966, way to create = DRAWED comparison parameter = 163.83333333333334
+217: It is a documentary, name = yUffEXBCafco, release date = 1966, minutes = 237 comparison parameter = 163.83333333333334
+218: It is a cartoon, name = pmSbMmtvWGfN, release date = 1966, way to create = PLASTIC comparison parameter = 163.83333333333334
+219: It is a fiction, name = rfJZNPbWZsDB, release date = 1966, director = AkREOwSJGLJa comparison parameter = 163.83333333333334
+220: It is a documentary, name = gmFhLCLQqAmX, release date = 1966, minutes = 171 comparison parameter = 163.83333333333334
+221: It is a cartoon, name = CRhDRfvKaWHU, release date = 1966, way to create = DRAWED comparison parameter = 163.83333333333334
+222: It is a documentary, name = vPTfYZbOycSC, release date = 1966, minutes = 3 comparison parameter = 163.83333333333334
+223: It is a cartoon, name = TuEOfGhaczjA, release date = 1966, way to create = PLASTIC comparison parameter = 163.83333333333334
+224: It is a fiction, name = WSsJLJACoKiy, release date = 1966, director = oJcSnVnPsGDc comparison parameter = 163.83333333333334
+225: It is a cartoon, name = QEcOJvwZXadY, release date = 1966, way to create = DRAWED comparison parameter = 163.83333333333334
+226: It is a fiction, name = OyrEJTfJxJHg, release date = 1966, director = oZNufvqGrejN comparison parameter = 163.83333333333334
+227: It is a fiction, name = KPbsYCQeLSxn, release date = 1967, director = PElwMFNOxRWJ comparison parameter = 163.91666666666666
+228: It is a documentary, name = BEyCnsTSsNEj, release date = 1967, minutes = 2 comparison parameter = 163.91666666666666
+229: It is a documentary, name = eynNwWhBlzIV, release date = 1967, minutes = 124 comparison parameter = 163.91666666666666
+230: It is a fiction, name = GcSOBOzTjNGt, release date = 1967, director = vdqzyoatxylA comparison parameter = 163.91666666666666
+231: It is a cartoon, name = giCFJxTdIYpi, release date = 1967, way to create = DRAWED comparison parameter = 163.91666666666666
+232: It is a documentary, name = fWqvyavxWlPB, release date = 1967, minutes = 77 comparison parameter = 163.91666666666666
+233: It is a documentary, name = XYTsVMXLjYHS, release date = 1967, minutes = 195 comparison parameter = 163.91666666666666
+234: It is a cartoon, name = dQpLDDldOcsi, release date = 1967, way to create = DRAWED comparison parameter = 163.91666666666666
+235: It is a documentary, name = cbKUyTLPJWlO, release date = 1967, minutes = 108 comparison parameter = 163.91666666666666
+236: It is a fiction, name = TxjwfXGVcXSA, release date = 1967, director = nwbuZjkWtjAi comparison parameter = 163.91666666666666
+237: It is a documentary, name = DuPmCgofPjkL, release date = 1967, minutes = 182 comparison parameter = 163.91666666666666
+238: It is a fiction, name = lOaJdrotqurd, release date = 1967, director = ymhAeaLnScuf comparison parameter = 163.91666666666666
+239: It is a documentary, name = sbPGyTjlbJZQ, release date = 1967, minutes = 42 comparison parameter = 163.91666666666666
+240: It is a cartoon, name = gUKqKCwBonSD, release date = 1968, way to create = DRAWED comparison parameter = 164.0
+241: It is a cartoon, name = ePSAAHaYypBI, release date = 1968, way to create = DRAWED comparison parameter = 164.0
+242: It is a fiction, name = lhlzuENUrsVF, release date = 1968, director = wQympivqWOHY comparison parameter = 164.0
+243: It is a fiction, name = tFHtnilAaUXD, release date = 1968, director = aMhxFQjpPrYt comparison parameter = 164.0
+244: It is a fiction, name = fexdwKFuPSlo, release date = 1968, director = EMoQMoZWTSEP comparison parameter = 164.0
+245: It is a documentary, name = ZfVXEZTSNsBl, release date = 1968, minutes = 155 comparison parameter = 164.0
+246: It is a fiction, name = LHgHTjHoiIfo, release date = 1968, director = mgtyjrNeeSlo comparison parameter = 164.0
+247: It is a cartoon, name = bmzSHDynfZxE, release date = 1968, way to create = PLASTIC comparison parameter = 164.0
+248: It is a cartoon, name = tlMcuqMuXTUy, release date = 1968, way to create = PUPPET comparison parameter = 164.0
+249: It is a cartoon, name = sJJNjVQidcAI, release date = 1968, way to create = DRAWED comparison parameter = 164.0
+250: It is a documentary, name = qXOtYmftRgEC, release date = 1968, minutes = 55 comparison parameter = 164.0
+251: It is a cartoon, name = SbAsiFzKQqRa, release date = 1968, way to create = DRAWED comparison parameter = 164.0
+252: It is a documentary, name = TecXTkmvbYmk, release date = 1968, minutes = 228 comparison parameter = 164.0
+253: It is a fiction, name = gaRdszfCrxyP, release date = 1968, director = vGEHIBVexoiy comparison parameter = 164.0
+254: It is a cartoon, name = ZQSxHyThYfLT, release date = 1968, way to create = PLASTIC comparison parameter = 164.0
+255: It is a documentary, name = xpxTzASlYvNe, release date = 1969, minutes = 40 comparison parameter = 164.08333333333334
+256: It is a documentary, name = IoClembuPfLC, release date = 1969, minutes = 48 comparison parameter = 164.08333333333334
+257: It is a fiction, name = qQioNMShUVUm, release date = 1969, director = rJMzyeHvagYI comparison parameter = 164.08333333333334
+258: It is a fiction, name = yTUGfLKUBcTE, release date = 1969, director = YUdIHiuTeudt comparison parameter = 164.08333333333334
+259: It is a documentary, name = zsietRMYawUU, release date = 1969, minutes = 79 comparison parameter = 164.08333333333334
+260: It is a cartoon, name = AJznOvcomxOd, release date = 1969, way to create = PUPPET comparison parameter = 164.08333333333334
+261: It is a cartoon, name = EQVajDcZJSKJ, release date = 1969, way to create = PLASTIC comparison parameter = 164.08333333333334
+262: It is a documentary, name = dOsPgwcPBfoX, release date = 1969, minutes = 71 comparison parameter = 164.08333333333334
+263: It is a documentary, name = iMbVMHJIzZUp, release date = 1969, minutes = 13 comparison parameter = 164.08333333333334
+264: It is a documentary, name = ebDTQxJggUgI, release date = 1969, minutes = 177 comparison parameter = 164.08333333333334
+265: It is a cartoon, name = sFeUzPuVrYye, release date = 1969, way to create = DRAWED comparison parameter = 164.08333333333334
+266: It is a cartoon, name = MNviUuFvQieO, release date = 1969, way to create = DRAWED comparison parameter = 164.08333333333334
+267: It is a cartoon, name = ytthEsFlDFyJ, release date = 1970, way to create = PLASTIC comparison parameter = 164.16666666666666
+268: It is a cartoon, name = sseXRRyenhHd, release date = 1970, way to create = PUPPET comparison parameter = 164.16666666666666
+269: It is a cartoon, name = hZhriNiwDBbO, release date = 1970, way to create = DRAWED comparison parameter = 164.16666666666666
+270: It is a cartoon, name = NrTSbeTdBKdK, release date = 1970, way to create = DRAWED comparison parameter = 164.16666666666666
+271: It is a fiction, name = SzqPdrFNSgna, release date = 1970, director = othiBguMHUGc comparison parameter = 164.16666666666666
+272: It is a documentary, name = LzLBiLWyBqZs, release date = 1970, minutes = 107 comparison parameter = 164.16666666666666
+273: It is a fiction, name = cLlMJBcCexQN, release date = 1970, director = zyYRCkcIYvee comparison parameter = 164.16666666666666
+274: It is a fiction, name = ZbdupOQeeuQK, release date = 1970, director = wsEvfrBPZFoS comparison parameter = 164.16666666666666
+275: It is a fiction, name = aMemGJyXYfxo, release date = 1970, director = UkjSQcNptUIT comparison parameter = 164.16666666666666
+276: It is a fiction, name = jIsgCpkcQfeB, release date = 1970, director = QDEOccoLUlKp comparison parameter = 164.16666666666666
+277: It is a documentary, name = kaUYlKSWpXxS, release date = 1970, minutes = 192 comparison parameter = 164.16666666666666
+278: It is a fiction, name = hhpxLDeCeido, release date = 1970, director = nkMZykAMrlHn comparison parameter = 164.16666666666666
+279: It is a cartoon, name = dMSMtGnrBEsK, release date = 1970, way to create = PLASTIC comparison parameter = 164.16666666666666
+280: It is a documentary, name = qofFcoQWdqYr, release date = 1971, minutes = 86 comparison parameter = 164.25
+281: It is a fiction, name = VbntGZEWaPqu, release date = 1971, director = wZFqNSkJomZc comparison parameter = 164.25
+282: It is a documentary, name = PdFLIQGHjuHl, release date = 1971, minutes = 21 comparison parameter = 164.25
+283: It is a documentary, name = lQJSCoDbUUpf, release date = 1971, minutes = 140 comparison parameter = 164.25
+284: It is a cartoon, name = yQXCTqOezQzB, release date = 1971, way to create = PUPPET comparison parameter = 164.25
+285: It is a fiction, name = IEKhkiwHoGFL, release date = 1971, director = lEGkpKfxTdDl comparison parameter = 164.25
+286: It is a cartoon, name = tyPwBfdJbGAN, release date = 1971, way to create = PLASTIC comparison parameter = 164.25
+287: It is a cartoon, name = aLnwZIwtknMl, release date = 1971, way to create = PUPPET comparison parameter = 164.25
+288: It is a cartoon, name = pYiSSzABPsBv, release date = 1971, way to create = PUPPET comparison parameter = 164.25
+289: It is a cartoon, name = YBTDvvWOUPra, release date = 1971, way to create = PLASTIC comparison parameter = 164.25
+290: It is a fiction, name = LwYfbBtYBwqM, release date = 1971, director = LRbClcMjxeNn comparison parameter = 164.25
+291: It is a fiction, name = cJZJWYChiDty, release date = 1971, director = fZpVefomMULN comparison parameter = 164.25
+292: It is a cartoon, name = CsVSDMXUjYch, release date = 1971, way to create = PUPPET comparison parameter = 164.25
+293: It is a cartoon, name = yQIuctarduWf, release date = 1971, way to create = DRAWED comparison parameter = 164.25
+294: It is a documentary, name = vpLmfYEZzeFN, release date = 1972, minutes = 5 comparison parameter = 164.33333333333334
+295: It is a documentary, name = jsubHSqPGBXh, release date = 1972, minutes = 8 comparison parameter = 164.33333333333334
+296: It is a documentary, name = CqSVnFrSZMuE, release date = 1972, minutes = 94 comparison parameter = 164.33333333333334
+297: It is a documentary, name = MdSWNfwHLgOV, release date = 1972, minutes = 155 comparison parameter = 164.33333333333334
+298: It is a cartoon, name = qZYuWApCUmjF, release date = 1972, way to create = PLASTIC comparison parameter = 164.33333333333334
+299: It is a fiction, name = cYHYMxJFClFd, release date = 1972, director = NUOSoRAusTMv comparison parameter = 164.33333333333334
+300: It is a documentary, name = gacDzkQaXswt, release date = 1972, minutes = 150 comparison parameter = 164.33333333333334
+301: It is a documentary, name = WZTuABAvgvsS, release date = 1972, minutes = 6 comparison parameter = 164.33333333333334
+302: It is a documentary, name = KNQRAhrHozkd, release date = 1972, minutes = 81 comparison parameter = 164.33333333333334
+303: It is a fiction, name = HpnxWabzmqjp, release date = 1972, director = qputVFcCWFyC comparison parameter = 164.33333333333334
+304: It is a fiction, name = seNmliglhQcr, release date = 1973, director = nvYpRSbfXJae comparison parameter = 164.41666666666666
+305: It is a fiction, name = svbQOkVbWSkb, release date = 1973, director = yVwpnuffSGhs comparison parameter = 164.41666666666666
+306: It is a documentary, name = ORpGAeOdSURk, release date = 1973, minutes = 136 comparison parameter = 164.41666666666666
+307: It is a documentary, name = qiLhxzFqiIiH, release date = 1973, minutes = 209 comparison parameter = 164.41666666666666
+308: It is a fiction, name = LNEKkgYiXpYD, release date = 1973, director = fAYvTprJTvhE comparison parameter = 164.41666666666666
+309: It is a cartoon, name = cailnkgVpuxa, release date = 1973, way to create = PUPPET comparison parameter = 164.41666666666666
+310: It is a fiction, name = OxPmibMHZdcB, release date = 1973, director = MPEdsXCvnhve comparison parameter = 164.41666666666666
+311: It is a cartoon, name = HMIAeAqDfPAt, release date = 1973, way to create = DRAWED comparison parameter = 164.41666666666666
+312: It is a fiction, name = QxlfZLzcerjq, release date = 1973, director = VldwTwcobYmv comparison parameter = 164.41666666666666
+313: It is a fiction, name = GUmJxJqxyBeu, release date = 1973, director = azguUkixyTzp comparison parameter = 164.41666666666666
+314: It is a fiction, name = PCFwvjlwTccI, release date = 1973, director = ShMYFYIzhozR comparison parameter = 164.41666666666666
+315: It is a documentary, name = NNVDhlidGXNT, release date = 1973, minutes = 208 comparison parameter = 164.41666666666666
+316: It is a cartoon, name = ZTdEmrVaELfu, release date = 1973, way to create = DRAWED comparison parameter = 164.41666666666666
+317: It is a documentary, name = EtHgvqeAteKp, release date = 1974, minutes = 183 comparison parameter = 164.5
+318: It is a documentary, name = hxxlwKfsJSDg, release date = 1974, minutes = 83 comparison parameter = 164.5
+319: It is a cartoon, name = LALlmJSlsnpI, release date = 1974, way to create = DRAWED comparison parameter = 164.5
+320: It is a documentary, name = fdbJGTDebtyO, release date = 1974, minutes = 192 comparison parameter = 164.5
+321: It is a documentary, name = EKYGmXmszQPK, release date = 1974, minutes = 20 comparison parameter = 164.5
+322: It is a documentary, name = ZlCvXkgjQXRK, release date = 1974, minutes = 67 comparison parameter = 164.5
+323: It is a cartoon, name = jdJxqCPaFEHK, release date = 1974, way to create = PLASTIC comparison parameter = 164.5
+324: It is a cartoon, name = QfUSXjUBcNJG, release date = 1974, way to create = DRAWED comparison parameter = 164.5
+325: It is a documentary, name = bnLWWxzgszFV, release date = 1974, minutes = 84 comparison parameter = 164.5
+326: It is a documentary, name = XhhRemnYUDdX, release date = 1974, minutes = 188 comparison parameter = 164.5
+327: It is a documentary, name = AwmfcLXisywj, release date = 1974, minutes = 139 comparison parameter = 164.5
+328: It is a documentary, name = aGdYSkFfLerC, release date = 1974, minutes = 45 comparison parameter = 164.5
+329: It is a cartoon, name = FxeDJdmNxfqv, release date = 1974, way to create = DRAWED comparison parameter = 164.5
+330: It is a cartoon, name = scpvLoJbgQaD, release date = 1974, way to create = PUPPET comparison parameter = 164.5
+331: It is a cartoon, name = LeuPRXKxttBk, release date = 1974, way to create = PLASTIC comparison parameter = 164.5
+332: It is a fiction, name = PCOmvEvIeBQL, release date = 1974, director = mJulNHUjXdCt comparison parameter = 164.5
+333: It is a fiction, name = TdBFgQzwyUis, release date = 1974, director = ypUXQQhsHonb comparison parameter = 164.5
+334: It is a fiction, name = nhcOtzbslnQK, release date = 1974, director = PsaRhxviCXUC comparison parameter = 164.5
+335: It is a fiction, name = TXwgZZwXsHuw, release date = 1974, director = PCdYeRiohdJK comparison parameter = 164.5
+336: It is a fiction, name = lbbJXJtoyjUq, release date = 1975, director = wrYmUyseqQEt comparison parameter = 164.58333333333334
+337: It is a documentary, name = TgVwaODLvrCG, release date = 1975, minutes = 170 comparison parameter = 164.58333333333334
+338: It is a documentary, name = vpwQnTQPCZiI, release date = 1975, minutes = 122 comparison parameter = 164.58333333333334
+339: It is a cartoon, name = QoHrZhkxjQCj, release date = 1975, way to create = DRAWED comparison parameter = 164.58333333333334
+340: It is a cartoon, name = DXAFfcBguhou, release date = 1975, way to create = PUPPET comparison parameter = 164.58333333333334
+341: It is a documentary, name = yaazQVExGBuz, release date = 1975, minutes = 202 comparison parameter = 164.58333333333334
+342: It is a documentary, name = CtcztoSihdbJ, release date = 1975, minutes = 232 comparison parameter = 164.58333333333334
+343: It is a fiction, name = TkwzaOAKfNwE, release date = 1975, director = ZekMFHbAUAnE comparison parameter = 164.58333333333334
+344: It is a cartoon, name = ogQKycvHaqjB, release date = 1975, way to create = PUPPET comparison parameter = 164.58333333333334
+345: It is a fiction, name = cYpimajeyxRk, release date = 1975, director = zLnoGzZSBqAt comparison parameter = 164.58333333333334
+346: It is a fiction, name = JtkpOTpqHrvj, release date = 1975, director = LnTFVkHtzcUD comparison parameter = 164.58333333333334
+347: It is a fiction, name = GcDbnuQQCVEj, release date = 1975, director = HVDVSyZWqmqH comparison parameter = 164.58333333333334
+348: It is a cartoon, name = FWKHlPuSkzkq, release date = 1975, way to create = DRAWED comparison parameter = 164.58333333333334
+349: It is a documentary, name = YqAwUcqwUaFR, release date = 1975, minutes = 117 comparison parameter = 164.58333333333334
+350: It is a documentary, name = kxErcSlSVrxb, release date = 1975, minutes = 143 comparison parameter = 164.58333333333334
+351: It is a fiction, name = RXTVJKGetGbN, release date = 1976, director = sCWOmDRhaciq comparison parameter = 164.66666666666666
+352: It is a cartoon, name = FeKzXApoEYHS, release date = 1976, way to create = DRAWED comparison parameter = 164.66666666666666
+353: It is a documentary, name = nsBFiVvXBRYy, release date = 1976, minutes = 239 comparison parameter = 164.66666666666666
+354: It is a documentary, name = vLTzHqnpLkrn, release date = 1976, minutes = 194 comparison parameter = 164.66666666666666
+355: It is a cartoon, name = roPdOILsRiEC, release date = 1976, way to create = PLASTIC comparison parameter = 164.66666666666666
+356: It is a fiction, name = SLeWIMNKFNEi, release date = 1976, director = UZzIpKIxCZAw comparison parameter = 164.66666666666666
+357: It is a fiction, name = HkeDZWZQRsBZ, release date = 1976, director = mQhXpUJFjFHn comparison parameter = 164.66666666666666
+358: It is a documentary, name = tRctzzLqNxiQ, release date = 1976, minutes = 141 comparison parameter = 164.66666666666666
+359: It is a fiction, name = wwThgyboKgQM, release date = 1977, director = iRYQkvQFXAHX comparison parameter = 164.75
+360: It is a cartoon, name = xztxINGljscs, release date = 1977, way to create = DRAWED comparison parameter = 164.75
+361: It is a cartoon, name = JYqfxXvYsmsI, release date = 1977, way to create = DRAWED comparison parameter = 164.75
+362: It is a cartoon, name = WGNGZlHPyFHG, release date = 1977, way to create = PUPPET comparison parameter = 164.75
+363: It is a documentary, name = voHZeJSxXSTS, release date = 1977, minutes = 85 comparison parameter = 164.75
+364: It is a cartoon, name = WBXWmFCNZpWI, release date = 1977, way to create = DRAWED comparison parameter = 164.75
+365: It is a documentary, name = hNihdeExGWKz, release date = 1977, minutes = 204 comparison parameter = 164.75
+366: It is a cartoon, name = qQIHvSJbVsfS, release date = 1977, way to create = PLASTIC comparison parameter = 164.75
+367: It is a cartoon, name = PkLSCZzVJela, release date = 1977, way to create = PUPPET comparison parameter = 164.75
+368: It is a cartoon, name = sKuklpHxPhJA, release date = 1977, way to create = DRAWED comparison parameter = 164.75
+369: It is a documentary, name = fMkpkHcdSoDn, release date = 1977, minutes = 107 comparison parameter = 164.75
+370: It is a cartoon, name = xKXRgPdVvCJo, release date = 1977, way to create = PLASTIC comparison parameter = 164.75
+371: It is a fiction, name = RMVlnvWUNsff, release date = 1977, director = oDSFAoSFiNVK comparison parameter = 164.75
+372: It is a documentary, name = GVzbWKgZnSKD, release date = 1977, minutes = 73 comparison parameter = 164.75
+373: It is a fiction, name = kHOWuGLiRqaj, release date = 1978, director = jPDvdxpeXKjx comparison parameter = 164.83333333333334
+374: It is a cartoon, name = jsefPZFEkdmQ, release date = 1978, way to create = DRAWED comparison parameter = 164.83333333333334
+375: It is a documentary, name = kqEMgouvBgpR, release date = 1978, minutes = 138 comparison parameter = 164.83333333333334
+376: It is a documentary, name = dfvuKSqvEvUc, release date = 1978, minutes = 175 comparison parameter = 164.83333333333334
+377: It is a documentary, name = CkWXIuDBpXCH, release date = 1978, minutes = 40 comparison parameter = 164.83333333333334
+378: It is a fiction, name = BjNSJrSdflcM, release date = 1978, director = ftZULtPMSEtC comparison parameter = 164.83333333333334
+379: It is a cartoon, name = NAsCSzDUIQyr, release date = 1978, way to create = DRAWED comparison parameter = 164.83333333333334
+380: It is a documentary, name = JnLPCdQcgIUw, release date = 1978, minutes = 34 comparison parameter = 164.83333333333334
+381: It is a documentary, name = MmpeiatrjBpz, release date = 1978, minutes = 239 comparison parameter = 164.83333333333334
+382: It is a fiction, name = azuheXgvvRDU, release date = 1978, director = kBZmbbEtUEQn comparison parameter = 164.83333333333334
+383: It is a cartoon, name = jWtMpQwVsZFN, release date = 1978, way to create = DRAWED comparison parameter = 164.83333333333334
+384: It is a documentary, name = OKkPYUEXelCs, release date = 1979, minutes = 206 comparison parameter = 164.91666666666666
+385: It is a cartoon, name = ZTMxEsqokhTb, release date = 1979, way to create = PUPPET comparison parameter = 164.91666666666666
+386: It is a documentary, name = ftVNPmBfVVbk, release date = 1979, minutes = 6 comparison parameter = 164.91666666666666
+387: It is a documentary, name = MWxZmZhKGGSC, release date = 1979, minutes = 210 comparison parameter = 164.91666666666666
+388: It is a documentary, name = drVCDpYmoKxi, release date = 1979, minutes = 133 comparison parameter = 164.91666666666666
+389: It is a fiction, name = rwUvWHhqSzyU, release date = 1979, director = ZeGbXiZdBMRp comparison parameter = 164.91666666666666
+390: It is a cartoon, name = nAJKlBDZrqut, release date = 1979, way to create = DRAWED comparison parameter = 164.91666666666666
+391: It is a documentary, name = vazhxhcxPiop, release date = 1979, minutes = 154 comparison parameter = 164.91666666666666
+392: It is a cartoon, name = mpaOQkuEUNen, release date = 1979, way to create = PLASTIC comparison parameter = 164.91666666666666
+393: It is a fiction, name = NRtruTBOrTVU, release date = 1979, director = TANUWmDPxPsH comparison parameter = 164.91666666666666
+394: It is a cartoon, name = sXaiViOfzxgf, release date = 1979, way to create = DRAWED comparison parameter = 164.91666666666666
+395: It is a fiction, name = QxHGDGoPUYfw, release date = 1979, director = NXGooqefbgeU comparison parameter = 164.91666666666666
+396: It is a cartoon, name = naYkSZsAbbIE, release date = 1979, way to create = PLASTIC comparison parameter = 164.91666666666666
+397: It is a fiction, name = ChFsLvteJxsV, release date = 1979, director = CflyVilkAEVY comparison parameter = 164.91666666666666
+398: It is a fiction, name = YFTSPzEXfvhi, release date = 1980, director = NQqYOXUKcEVy comparison parameter = 165.0
+399: It is a cartoon, name = pNjeMgJgsWNX, release date = 1980, way to create = DRAWED comparison parameter = 165.0
+400: It is a cartoon, name = WgXybvHfrWje, release date = 1980, way to create = PLASTIC comparison parameter = 165.0
+401: It is a cartoon, name = BgaPwAdWBqhA, release date = 1980, way to create = DRAWED comparison parameter = 165.0
+402: It is a cartoon, name = wYsWZkjmYVoZ, release date = 1980, way to create = DRAWED comparison parameter = 165.0
+403: It is a cartoon, name = BjJfMVawovfl, release date = 1980, way to create = DRAWED comparison parameter = 165.0
+404: It is a fiction, name = txXGePRLeKzq, release date = 1980, director = kWZvRwdXxStr comparison parameter = 165.0
+405: It is a cartoon, name = MuOnsnbwCpIa, release date = 1980, way to create = PLASTIC comparison parameter = 165.0
+406: It is a cartoon, name = rSbCsIMLgRFj, release date = 1980, way to create = DRAWED comparison parameter = 165.0
+407: It is a fiction, name = mvVhueWEwZfU, release date = 1980, director = XapHWHeqLAiz comparison parameter = 165.0
+408: It is a documentary, name = rSIFqErBYbjL, release date = 1980, minutes = 66 comparison parameter = 165.0
+409: It is a cartoon, name = twIThZyZtTpr, release date = 1980, way to create = DRAWED comparison parameter = 165.0
+410: It is a fiction, name = tDRUZnxZewDa, release date = 1980, director = VqbAdbXcEWRs comparison parameter = 165.0
+411: It is a fiction, name = PJWAPGPwjJzM, release date = 1980, director = JmLOUrlVTXvN comparison parameter = 165.0
+412: It is a documentary, name = ZTtAThehpJNU, release date = 1980, minutes = 60 comparison parameter = 165.0
+413: It is a documentary, name = TbMJWTiZkQLy, release date = 1981, minutes = 179 comparison parameter = 165.08333333333334
+414: It is a fiction, name = eZXKVngxTApD, release date = 1981, director = iCjVaeoxzKid comparison parameter = 165.08333333333334
+415: It is a fiction, name = wnXdyOxyNhEC, release date = 1981, director = TaCwXiZhUjLj comparison parameter = 165.08333333333334
+416: It is a cartoon, name = BvZljeDohCat, release date = 1981, way to create = PLASTIC comparison parameter = 165.08333333333334
+417: It is a fiction, name = UumlNjmlkpvk, release date = 1981, director = hLZVkewrxyYO comparison parameter = 165.08333333333334
+418: It is a cartoon, name = DfmgbqaTYIgz, release date = 1981, way to create = DRAWED comparison parameter = 165.08333333333334
+419: It is a documentary, name = ElJqWHtrHnvD, release date = 1981, minutes = 120 comparison parameter = 165.08333333333334
+420: It is a fiction, name = CrYiykZEhUFo, release date = 1981, director = SmNFtGzPjXct comparison parameter = 165.08333333333334
+421: It is a cartoon, name = iyYJQcSdWojs, release date = 1981, way to create = DRAWED comparison parameter = 165.08333333333334
+422: It is a documentary, name = GmAwfxjQCzIl, release date = 1981, minutes = 237 comparison parameter = 165.08333333333334
+423: It is a fiction, name = wnsSTwRFmgpv, release date = 1981, director = KpeezEgZwfea comparison parameter = 165.08333333333334
+424: It is a documentary, name = PCMYmaYEeqXe, release date = 1981, minutes = 110 comparison parameter = 165.08333333333334
+425: It is a fiction, name = zikIcJsGJHcw, release date = 1981, director = zzUnfCONWrAp comparison parameter = 165.08333333333334
+426: It is a documentary, name = TrbpVaMOpFOs, release date = 1982, minutes = 68 comparison parameter = 165.16666666666666
+427: It is a cartoon, name = ANuLxGQpcgWg, release date = 1982, way to create = PLASTIC comparison parameter = 165.16666666666666
+428: It is a fiction, name = mGwPjFTUHVKO, release date = 1982, director = QKIDBlWnhhUs comparison parameter = 165.16666666666666
+429: It is a fiction, name = dWnAdxIbGwwT, release date = 1982, director = gSWHZIkYzUAX comparison parameter = 165.16666666666666
+430: It is a fiction, name = VQfVmahgczVh, release date = 1982, director = DMIGNXZYYuhd comparison parameter = 165.16666666666666
+431: It is a documentary, name = FCIaqSvBHmWT, release date = 1982, minutes = 123 comparison parameter = 165.16666666666666
+432: It is a cartoon, name = TsisQuyhgnRU, release date = 1982, way to create = PLASTIC comparison parameter = 165.16666666666666
+433: It is a documentary, name = gpyHpZuOcKkf, release date = 1982, minutes = 222 comparison parameter = 165.16666666666666
+434: It is a fiction, name = ihBMBNBnouhT, release date = 1982, director = BnbRIbXBluRJ comparison parameter = 165.16666666666666
+435: It is a cartoon, name = sxeAKijlhuyc, release date = 1982, way to create = DRAWED comparison parameter = 165.16666666666666
+436: It is a cartoon, name = OYcBBVhaCKxe, release date = 1983, way to create = DRAWED comparison parameter = 165.25
+437: It is a documentary, name = MitmrVJAdJcs, release date = 1983, minutes = 181 comparison parameter = 165.25
+438: It is a fiction, name = VJcWbOuWOdTt, release date = 1983, director = DKZARBqPYVTe comparison parameter = 165.25
+439: It is a documentary, name = muHWSyqJzHcq, release date = 1983, minutes = 168 comparison parameter = 165.25
+440: It is a fiction, name = vQkSmZajgJsj, release date = 1983, director = vGOWjPqsssVl comparison parameter = 165.25
+441: It is a cartoon, name = BJcYygsNrAmY, release date = 1983, way to create = DRAWED comparison parameter = 165.25
+442: It is a fiction, name = qTPAGdMMOpZS, release date = 1983, director = tTDuemACwkBp comparison parameter = 165.25
+443: It is a fiction, name = tYYJXREMftCd, release date = 1983, director = TtyQGZuQwoWh comparison parameter = 165.25
+444: It is a cartoon, name = LULOuQoPRJVn, release date = 1983, way to create = PUPPET comparison parameter = 165.25
+445: It is a documentary, name = yKknPlhdbTLI, release date = 1983, minutes = 11 comparison parameter = 165.25
+446: It is a fiction, name = QnRECiOJVYRP, release date = 1983, director = mKaJQQlxrIrV comparison parameter = 165.25
+447: It is a cartoon, name = RuOiqpgmgYmG, release date = 1983, way to create = DRAWED comparison parameter = 165.25
+448: It is a documentary, name = EcSnqBImQCPw, release date = 1983, minutes = 132 comparison parameter = 165.25
+449: It is a fiction, name = kFBeIheVqnRE, release date = 1983, director = HKeghkOyYDRT comparison parameter = 165.25
+450: It is a fiction, name = QCpnOIJIogpq, release date = 1983, director = tOvlyzOHtcuf comparison parameter = 165.25
+451: It is a fiction, name = RNsFPegQtaSh, release date = 1983, director = VckTdbFauAzq comparison parameter = 165.25
+452: It is a cartoon, name = lmeElQsIPwSe, release date = 1983, way to create = PLASTIC comparison parameter = 165.25
+453: It is a cartoon, name = sxHTTJHxiNnW, release date = 1984, way to create = PUPPET comparison parameter = 165.33333333333334
+454: It is a documentary, name = ezpiLrHhrPdW, release date = 1984, minutes = 111 comparison parameter = 165.33333333333334
+455: It is a documentary, name = CcLYPWoJBBYY, release date = 1984, minutes = 188 comparison parameter = 165.33333333333334
+456: It is a fiction, name = sdLlqKhkrLTX, release date = 1984, director = FBRAiWVuQNXm comparison parameter = 165.33333333333334
+457: It is a cartoon, name = tkwejxHUPxbA, release date = 1984, way to create = DRAWED comparison parameter = 165.33333333333334
+458: It is a cartoon, name = TmFromEWKhyE, release date = 1984, way to create = DRAWED comparison parameter = 165.33333333333334
+459: It is a fiction, name = KVtrYwxqFBcB, release date = 1984, director = lbZNabpqDKaL comparison parameter = 165.33333333333334
+460: It is a fiction, name = XTzLwKReRIBf, release date = 1984, director = deNBLMYJgULv comparison parameter = 165.33333333333334
+461: It is a cartoon, name = MFwzgXcpFGZm, release date = 1984, way to create = PLASTIC comparison parameter = 165.33333333333334
+462: It is a cartoon, name = gDZYXutQafXd, release date = 1984, way to create = DRAWED comparison parameter = 165.33333333333334
+463: It is a cartoon, name = TwamycTtPcyO, release date = 1984, way to create = PUPPET comparison parameter = 165.33333333333334
+464: It is a fiction, name = eOdJFIdmVjXi, release date = 1984, director = CIwEfJxfSwyh comparison parameter = 165.33333333333334
+465: It is a fiction, name = DRtVfHoDFKMU, release date = 1984, director = pAhBvvsoSVCP comparison parameter = 165.33333333333334
+466: It is a documentary, name = TfrxoBzpKwFO, release date = 1984, minutes = 11 comparison parameter = 165.33333333333334
+467: It is a fiction, name = LUKeLrISlJoj, release date = 1985, director = GJbYzfOrEJYR comparison parameter = 165.41666666666666
+468: It is a fiction, name = wDltotxONIGs, release date = 1985, director = xGpcBOYsYtSc comparison parameter = 165.41666666666666
+469: It is a fiction, name = xuNZfAACwmEr, release date = 1985, director = pLzyndlpVozh comparison parameter = 165.41666666666666
+470: It is a documentary, name = exPFFVUjCpnr, release date = 1985, minutes = 171 comparison parameter = 165.41666666666666
+471: It is a fiction, name = HjSNiAGBfUse, release date = 1985, director = zZVCYVVjZFIT comparison parameter = 165.41666666666666
+472: It is a fiction, name = ePOKWUyaUBSM, release date = 1985, director = IgozDBObyWgK comparison parameter = 165.41666666666666
+473: It is a fiction, name = LcReguvhuEfd, release date = 1985, director = JEElVsiubREL comparison parameter = 165.41666666666666
+474: It is a fiction, name = eXPcFjmNfDTL, release date = 1985, director = LJGgxzTgkzVn comparison parameter = 165.41666666666666
+475: It is a documentary, name = wAySLhPnNelX, release date = 1985, minutes = 200 comparison parameter = 165.41666666666666
+476: It is a fiction, name = RZHwVbFEGtvq, release date = 1985, director = WNuENaInxUay comparison parameter = 165.41666666666666
+477: It is a fiction, name = rIpDYiScUTKY, release date = 1985, director = qYLpmFLvGPoj comparison parameter = 165.41666666666666
+478: It is a fiction, name = eVkYHqXyDRWR, release date = 1985, director = FImUqOpPZzlU comparison parameter = 165.41666666666666
+479: It is a fiction, name = cZcoBXevloBE, release date = 1985, director = IJqFraKxrTHw comparison parameter = 165.41666666666666
+480: It is a documentary, name = LCBTlsccgqtF, release date = 1985, minutes = 196 comparison parameter = 165.41666666666666
+481: It is a documentary, name = BfkHelKLlHqN, release date = 1986, minutes = 70 comparison parameter = 165.5
+482: It is a fiction, name = pgsYbHNlsGqm, release date = 1986, director = FcNTMGVxMcTi comparison parameter = 165.5
+483: It is a cartoon, name = DZzIKAynaVQJ, release date = 1986, way to create = PLASTIC comparison parameter = 165.5
+484: It is a fiction, name = wYJQtNpAjHsT, release date = 1986, director = uojRkCOfAmKq comparison parameter = 165.5
+485: It is a cartoon, name = frzifsYetiLL, release date = 1986, way to create = DRAWED comparison parameter = 165.5
+486: It is a documentary, name = pvLnlFfAmocS, release date = 1986, minutes = 23 comparison parameter = 165.5
+487: It is a fiction, name = ChtqxSbLikVV, release date = 1986, director = PdifWhkpiZIu comparison parameter = 165.5
+488: It is a fiction, name = zyTAwXWGzgro, release date = 1986, director = OqAVwuDSWVmJ comparison parameter = 165.5
+489: It is a fiction, name = ewcwIcBAISPL, release date = 1986, director = yvzGxVvBpzQD comparison parameter = 165.5
+490: It is a fiction, name = lCcAwWDEFqJr, release date = 1986, director = YGwKuxOjWhPW comparison parameter = 165.5
+491: It is a documentary, name = OyGFXlnnRont, release date = 1986, minutes = 107 comparison parameter = 165.5
+492: It is a documentary, name = nfZnIwHsBlgb, release date = 1986, minutes = 153 comparison parameter = 165.5
+493: It is a documentary, name = tjRelyZDzGwT, release date = 1986, minutes = 154 comparison parameter = 165.5
+494: It is a fiction, name = xRitakBIiedO, release date = 1986, director = VhkAIrAWAyra comparison parameter = 165.5
+495: It is a cartoon, name = KDEyryRymmGD, release date = 1986, way to create = DRAWED comparison parameter = 165.5
+496: It is a fiction, name = lSBiCYtYtkiA, release date = 1987, director = NYjDvHdWgZGw comparison parameter = 165.58333333333334
+497: It is a cartoon, name = iRZFoRgwAAko, release date = 1987, way to create = PUPPET comparison parameter = 165.58333333333334
+498: It is a fiction, name = tmhfRDwqqsOH, release date = 1987, director = oWvWVxoDdWvV comparison parameter = 165.58333333333334
+499: It is a documentary, name = GEWbzZBTpSUs, release date = 1987, minutes = 145 comparison parameter = 165.58333333333334
+500: It is a documentary, name = FjlPMoZneSoG, release date = 1987, minutes = 41 comparison parameter = 165.58333333333334
+501: It is a fiction, name = KXFlgBdaVVZy, release date = 1987, director = EIODXrfogpMN comparison parameter = 165.58333333333334
+502: It is a fiction, name = WgFNQjOtGTTF, release date = 1987, director = PJWNOfpnODOx comparison parameter = 165.58333333333334
+503: It is a fiction, name = ejDwZBiqdGVD, release date = 1987, director = zlRdOBinyLro comparison parameter = 165.58333333333334
+504: It is a fiction, name = FzcMLFwdjNZb, release date = 1987, director = hBCzlPyspAfF comparison parameter = 165.58333333333334
+505: It is a cartoon, name = kqqEcgOixZEU, release date = 1987, way to create = PLASTIC comparison parameter = 165.58333333333334
+506: It is a documentary, name = krRsVmaksnmj, release date = 1987, minutes = 3 comparison parameter = 165.58333333333334
+507: It is a documentary, name = RnkBrVqTtMEc, release date = 1987, minutes = 221 comparison parameter = 165.58333333333334
+508: It is a cartoon, name = kzkhHhLwWhea, release date = 1987, way to create = PLASTIC comparison parameter = 165.58333333333334
+509: It is a fiction, name = eieUFtAZTclw, release date = 1988, director = tXLOkUuOkDPw comparison parameter = 165.66666666666666
+510: It is a cartoon, name = UMrgTMHBzyXf, release date = 1988, way to create = DRAWED comparison parameter = 165.66666666666666
+511: It is a fiction, name = wfChOEBdOlWX, release date = 1988, director = gDtrjhKPMfXh comparison parameter = 165.66666666666666
+512: It is a fiction, name = UauegMHVqKwq, release date = 1988, director = biPrtqMSJyXO comparison parameter = 165.66666666666666
+513: It is a cartoon, name = qqRARsNmwuyp, release date = 1988, way to create = DRAWED comparison parameter = 165.66666666666666
+514: It is a fiction, name = fAUEdAqHNLal, release date = 1988, director = cyAFnAeWAkQO comparison parameter = 165.66666666666666
+515: It is a documentary, name = dSXdSnqTQaOX, release date = 1988, minutes = 134 comparison parameter = 165.66666666666666
+516: It is a cartoon, name = FSbQFAjqKpQc, release date = 1988, way to create = DRAWED comparison parameter = 165.66666666666666
+517: It is a cartoon, name = gjePkUskwNXd, release date = 1988, way to create = PLASTIC comparison parameter = 165.66666666666666
+518: It is a documentary, name = YhgcoSXtHHru, release date = 1988, minutes = 73 comparison parameter = 165.66666666666666
+519: It is a fiction, name = NEQTRlVcjFtz, release date = 1988, director = HXkhBJloEczk comparison parameter = 165.66666666666666
+520: It is a documentary, name = bhLHlHhNnjtb, release date = 1988, minutes = 91 comparison parameter = 165.66666666666666
+521: It is a fiction, name = NhhwtTCGqxmn, release date = 1988, director = oJKMjVXerUIl comparison parameter = 165.66666666666666
+522: It is a cartoon, name = xxlnsbeKgefn, release date = 1988, way to create = DRAWED comparison parameter = 165.66666666666666
+523: It is a documentary, name = MlNTqBgfnhTI, release date = 1988, minutes = 197 comparison parameter = 165.66666666666666
+524: It is a documentary, name = FOgXTvfuBCzB, release date = 1988, minutes = 212 comparison parameter = 165.66666666666666
+525: It is a documentary, name = eGrdcFXsPEYi, release date = 1988, minutes = 144 comparison parameter = 165.66666666666666
+526: It is a cartoon, name = YTuNSCFkPxnr, release date = 1989, way to create = PUPPET comparison parameter = 165.75
+527: It is a documentary, name = fqNmcZbowgxL, release date = 1989, minutes = 155 comparison parameter = 165.75
+528: It is a cartoon, name = jwvLMDhLbHWt, release date = 1989, way to create = DRAWED comparison parameter = 165.75
+529: It is a fiction, name = DpVJHQrAdKij, release date = 1989, director = LuQhYJpZBvWP comparison parameter = 165.75
+530: It is a documentary, name = COfXDZhDXRsH, release date = 1989, minutes = 191 comparison parameter = 165.75
+531: It is a fiction, name = wbvlXuzWOmnu, release date = 1989, director = MGQonxfMAROk comparison parameter = 165.75
+532: It is a fiction, name = FjbGzAnVNwfT, release date = 1989, director = xFxHqQbHCHyl comparison parameter = 165.75
+533: It is a cartoon, name = tXbfavFcNIGu, release date = 1989, way to create = PUPPET comparison parameter = 165.75
+534: It is a documentary, name = SBnwWcEMklzS, release date = 1989, minutes = 240 comparison parameter = 165.75
+535: It is a cartoon, name = DFHKEcoJzbOQ, release date = 1989, way to create = PLASTIC comparison parameter = 165.75
+536: It is a cartoon, name = fPajqoVTmJoQ, release date = 1989, way to create = DRAWED comparison parameter = 165.75
+537: It is a fiction, name = HNyQFxVtaTbU, release date = 1989, director = TLBMaitPGlev comparison parameter = 165.75
+538: It is a documentary, name = aVWvhVYBsiVx, release date = 1989, minutes = 116 comparison parameter = 165.75
+539: It is a cartoon, name = OBIoZQsdqKSV, release date = 1989, way to create = DRAWED comparison parameter = 165.75
+540: It is a fiction, name = dwhrtlZqteyN, release date = 1989, director = qXNUkVqwGFaM comparison parameter = 165.75
+541: It is a documentary, name = NUIrWUjOxQSd, release date = 1989, minutes = 165 comparison parameter = 165.75
+542: It is a documentary, name = gzqqmZYuwWUm, release date = 1990, minutes = 149 comparison parameter = 165.83333333333334
+543: It is a fiction, name = mpBbaSpYgUtk, release date = 1990, director = KiPRTKnNdrNP comparison parameter = 165.83333333333334
+544: It is a documentary, name = afbUIEOiGJzq, release date = 1990, minutes = 224 comparison parameter = 165.83333333333334
+545: It is a fiction, name = tFSLbNwvMVpM, release date = 1990, director = zjNfvZksedtV comparison parameter = 165.83333333333334
+546: It is a fiction, name = rfTcMPIktIzO, release date = 1990, director = KSZHXoUjfhyb comparison parameter = 165.83333333333334
+547: It is a fiction, name = LwkPKqOhFNQd, release date = 1990, director = iFNgmRcMOLtY comparison parameter = 165.83333333333334
+548: It is a cartoon, name = vRvOoSvbYcDS, release date = 1990, way to create = PLASTIC comparison parameter = 165.83333333333334
+549: It is a cartoon, name = LfVwqQoeVTNt, release date = 1990, way to create = DRAWED comparison parameter = 165.83333333333334
+550: It is a fiction, name = ejuRLLOFXjMw, release date = 1990, director = kYzlILfKyUfn comparison parameter = 165.83333333333334
+551: It is a fiction, name = hBGzsmRCCqVZ, release date = 1991, director = EWpltRZGpCMI comparison parameter = 165.91666666666666
+552: It is a cartoon, name = vCFwOjKXEIdR, release date = 1991, way to create = PLASTIC comparison parameter = 165.91666666666666
+553: It is a cartoon, name = XjHWlNtMvIMt, release date = 1991, way to create = DRAWED comparison parameter = 165.91666666666666
+554: It is a documentary, name = MbThkHCZZpug, release date = 1991, minutes = 38 comparison parameter = 165.91666666666666
+555: It is a documentary, name = mNimSWJuVUNd, release date = 1991, minutes = 65 comparison parameter = 165.91666666666666
+556: It is a cartoon, name = DmCnFMgBoHZK, release date = 1991, way to create = DRAWED comparison parameter = 165.91666666666666
+557: It is a documentary, name = ZgYIRKIXOlsq, release date = 1991, minutes = 146 comparison parameter = 165.91666666666666
+558: It is a cartoon, name = ytcGEQPYCHKS, release date = 1991, way to create = PUPPET comparison parameter = 165.91666666666666
+559: It is a documentary, name = MKxZPEzPfPMT, release date = 1991, minutes = 201 comparison parameter = 165.91666666666666
+560: It is a cartoon, name = SUMFiXUEhevm, release date = 1991, way to create = PLASTIC comparison parameter = 165.91666666666666
+561: It is a documentary, name = GvWHYeempeIf, release date = 1991, minutes = 83 comparison parameter = 165.91666666666666
+562: It is a fiction, name = ABUIhPVfyaWW, release date = 1991, director = qDalrTAvsrho comparison parameter = 165.91666666666666
+563: It is a documentary, name = RMNuLzkbsNmp, release date = 1991, minutes = 227 comparison parameter = 165.91666666666666
+564: It is a fiction, name = FQdscFgDIAMp, release date = 1991, director = ULaOSQpizKuT comparison parameter = 165.91666666666666
+565: It is a cartoon, name = ipvtXWhTqLTE, release date = 1991, way to create = DRAWED comparison parameter = 165.91666666666666
+566: It is a fiction, name = McQMcZHgYyaj, release date = 1991, director = TtBeOrEcUUny comparison parameter = 165.91666666666666
+567: It is a documentary, name = BOsCFODMLZov, release date = 1991, minutes = 33 comparison parameter = 165.91666666666666
+568: It is a fiction, name = SyhSHbpyxqLj, release date = 1991, director = GAxNSukEoKHl comparison parameter = 165.91666666666666
+569: It is a cartoon, name = KPSPgxsUkXdC, release date = 1991, way to create = PLASTIC comparison parameter = 165.91666666666666
+570: It is a documentary, name = ZDXkCkwcAggC, release date = 1991, minutes = 170 comparison parameter = 165.91666666666666
+571: It is a fiction, name = DtRDckHpVqZO, release date = 1991, director = avYPgRDbFgzN comparison parameter = 165.91666666666666
+572: It is a fiction, name = MYtvYOyNMfVN, release date = 1991, director = zmzUhKISMKjT comparison parameter = 165.91666666666666
+573: It is a documentary, name = zyJcIQKuiJnY, release date = 1991, minutes = 141 comparison parameter = 165.91666666666666
+574: It is a fiction, name = TIfQbWrpxgTQ, release date = 1991, director = QYIDHEsypSHW comparison parameter = 165.91666666666666
+575: It is a documentary, name = mUTaWLIaplLH, release date = 1991, minutes = 1 comparison parameter = 165.91666666666666
+576: It is a documentary, name = tHlGribTGWxz, release date = 1992, minutes = 43 comparison parameter = 166.0
+577: It is a cartoon, name = PUYuyqBSKDoU, release date = 1992, way to create = DRAWED comparison parameter = 166.0
+578: It is a cartoon, name = VBbDnqMYxKnw, release date = 1992, way to create = PUPPET comparison parameter = 166.0
+579: It is a documentary, name = fCcqGNSPzcup, release date = 1992, minutes = 122 comparison parameter = 166.0
+580: It is a cartoon, name = IoxYVXuIXoMN, release date = 1992, way to create = PLASTIC comparison parameter = 166.0
+581: It is a documentary, name = AHlZYYzSFRUE, release date = 1992, minutes = 211 comparison parameter = 166.0
+582: It is a fiction, name = jYaHKSIYajfE, release date = 1992, director = SzPCuIJNtbZJ comparison parameter = 166.0
+583: It is a cartoon, name = MDcIEPcIzhlq, release date = 1992, way to create = DRAWED comparison parameter = 166.0
+584: It is a documentary, name = KGgaZgmjYHHl, release date = 1992, minutes = 160 comparison parameter = 166.0
+585: It is a fiction, name = YrzeXceyButB, release date = 1992, director = jnAdCDQcayFR comparison parameter = 166.0
+586: It is a fiction, name = IqpJlCqMfvTE, release date = 1993, director = EzicbtjBBeby comparison parameter = 166.08333333333334
+587: It is a fiction, name = EugllCpSaYOx, release date = 1993, director = ZZTwfgEHurjL comparison parameter = 166.08333333333334
+588: It is a cartoon, name = zCWRFVAHNXRB, release date = 1993, way to create = PUPPET comparison parameter = 166.08333333333334
+589: It is a documentary, name = DGJwGzpXjTYc, release date = 1993, minutes = 63 comparison parameter = 166.08333333333334
+590: It is a cartoon, name = SqiFGStsUHnR, release date = 1993, way to create = DRAWED comparison parameter = 166.08333333333334
+591: It is a cartoon, name = okoNLokQSyxm, release date = 1993, way to create = DRAWED comparison parameter = 166.08333333333334
+592: It is a fiction, name = CFYJGHmRDIij, release date = 1993, director = JmRfalzQdhnD comparison parameter = 166.08333333333334
+593: It is a fiction, name = BDppBiXsClEk, release date = 1993, director = LCOCqTzLWeit comparison parameter = 166.08333333333334
+594: It is a fiction, name = NZXZsUNoFUYQ, release date = 1993, director = GFwuXrRnRDxp comparison parameter = 166.08333333333334
+595: It is a cartoon, name = zHUUKYixHvue, release date = 1993, way to create = PUPPET comparison parameter = 166.08333333333334
+596: It is a fiction, name = ACnwUemmwnyw, release date = 1993, director = DIptcsobfbVc comparison parameter = 166.08333333333334
+597: It is a documentary, name = nUuSMWQXpnTi, release date = 1993, minutes = 223 comparison parameter = 166.08333333333334
+598: It is a cartoon, name = wHtpcenvqsjC, release date = 1993, way to create = PLASTIC comparison parameter = 166.08333333333334
+599: It is a documentary, name = PZxRpJkwtvEY, release date = 1993, minutes = 180 comparison parameter = 166.08333333333334
+600: It is a fiction, name = VphFzPQVosHj, release date = 1993, director = KKwaaUKFkIxL comparison parameter = 166.08333333333334
+601: It is a fiction, name = NRdBUoBmilqS, release date = 1994, director = FXkHFtqvlJyj comparison parameter = 166.16666666666666
+602: It is a fiction, name = XJwLJoqKqhrO, release date = 1994, director = yTkgAfXvPrlQ comparison parameter = 166.16666666666666
+603: It is a cartoon, name = pfplNhUJLiPG, release date = 1994, way to create = DRAWED comparison parameter = 166.16666666666666
+604: It is a documentary, name = xkHbOAPUcsjJ, release date = 1994, minutes = 118 comparison parameter = 166.16666666666666
+605: It is a cartoon, name = BfMTwAbdIYsx, release date = 1994, way to create = DRAWED comparison parameter = 166.16666666666666
+606: It is a documentary, name = NhslHqxZgBth, release date = 1994, minutes = 238 comparison parameter = 166.16666666666666
+607: It is a documentary, name = kqymoqPWhBaq, release date = 1994, minutes = 58 comparison parameter = 166.16666666666666
+608: It is a fiction, name = nSzIrmaPpvnH, release date = 1994, director = rzUxbUFBXujw comparison parameter = 166.16666666666666
+609: It is a fiction, name = cTfxEdMNKWgZ, release date = 1994, director = YJojFzulCcPq comparison parameter = 166.16666666666666
+610: It is a cartoon, name = ZcXXtKdQUbPp, release date = 1994, way to create = PLASTIC comparison parameter = 166.16666666666666
+611: It is a documentary, name = CpOkPrjDrRAU, release date = 1994, minutes = 150 comparison parameter = 166.16666666666666
+612: It is a documentary, name = KAujzeKfVNkJ, release date = 1994, minutes = 29 comparison parameter = 166.16666666666666
+613: It is a documentary, name = BaiUdwZuYPDP, release date = 1994, minutes = 100 comparison parameter = 166.16666666666666
+614: It is a documentary, name = AhuyXbroAzAz, release date = 1994, minutes = 129 comparison parameter = 166.16666666666666
+615: It is a cartoon, name = PeZIAIQHUwvP, release date = 1994, way to create = DRAWED comparison parameter = 166.16666666666666
+616: It is a cartoon, name = SZBBOWhILMws, release date = 1994, way to create = PUPPET comparison parameter = 166.16666666666666
+617: It is a documentary, name = wHOxRTrLhaEX, release date = 1995, minutes = 23 comparison parameter = 166.25
+618: It is a cartoon, name = vBbKqiRhDbKU, release date = 1995, way to create = PUPPET comparison parameter = 166.25
+619: It is a documentary, name = kmATaBdCNksk, release date = 1995, minutes = 70 comparison parameter = 166.25
+620: It is a documentary, name = rCwdOqxzSFAQ, release date = 1995, minutes = 197 comparison parameter = 166.25
+621: It is a documentary, name = rkddXcRijWiw, release date = 1995, minutes = 236 comparison parameter = 166.25
+622: It is a cartoon, name = sdlfpElbOmXs, release date = 1995, way to create = DRAWED comparison parameter = 166.25
+623: It is a fiction, name = GLqIdBfJagFC, release date = 1995, director = tLOdoodNOcql comparison parameter = 166.25
+624: It is a fiction, name = ftvmoFuywvxd, release date = 1995, director = JNOrarzUGfnJ comparison parameter = 166.25
+625: It is a fiction, name = BuhHQKgfwVPf, release date = 1995, director = tVkwffCPjTTL comparison parameter = 166.25
+626: It is a documentary, name = NgBPjxibnAmX, release date = 1995, minutes = 65 comparison parameter = 166.25
+627: It is a cartoon, name = BIlrwhBcPQdf, release date = 1995, way to create = DRAWED comparison parameter = 166.25
+628: It is a cartoon, name = cEAakVencmal, release date = 1995, way to create = DRAWED comparison parameter = 166.25
+629: It is a cartoon, name = lYullaKvNHJT, release date = 1995, way to create = DRAWED comparison parameter = 166.25
+630: It is a cartoon, name = ftIlGxOISeYC, release date = 1995, way to create = PLASTIC comparison parameter = 166.25
+631: It is a documentary, name = orFFOWfzsKhb, release date = 1996, minutes = 100 comparison parameter = 166.33333333333334
+632: It is a documentary, name = viHRIPcMheST, release date = 1996, minutes = 20 comparison parameter = 166.33333333333334
+633: It is a fiction, name = ZiyRADMXtBcm, release date = 1996, director = bxEtftHmeAsR comparison parameter = 166.33333333333334
+634: It is a documentary, name = mZdNkwkAzsgJ, release date = 1996, minutes = 55 comparison parameter = 166.33333333333334
+635: It is a cartoon, name = AImajWirlHPB, release date = 1996, way to create = PLASTIC comparison parameter = 166.33333333333334
+636: It is a cartoon, name = ihoYniWTDLoT, release date = 1996, way to create = DRAWED comparison parameter = 166.33333333333334
+637: It is a fiction, name = ubpDKUVYreib, release date = 1996, director = WXhrygYVcUbr comparison parameter = 166.33333333333334
+638: It is a fiction, name = SPAVQTUvdACR, release date = 1996, director = QrpMNlEjVieL comparison parameter = 166.33333333333334
+639: It is a cartoon, name = gfueOvgwMeCi, release date = 1996, way to create = DRAWED comparison parameter = 166.33333333333334
+640: It is a fiction, name = hpJHWNxqwWEg, release date = 1996, director = zhRzVhYbJYdX comparison parameter = 166.33333333333334
+641: It is a fiction, name = qjWJgiNEAAOf, release date = 1996, director = JTHAcqEPPwIF comparison parameter = 166.33333333333334
+642: It is a cartoon, name = FYGwNCHjwsiE, release date = 1996, way to create = PUPPET comparison parameter = 166.33333333333334
+643: It is a fiction, name = onXYBPrMvvJY, release date = 1996, director = PJLxuCjFYzDH comparison parameter = 166.33333333333334
+644: It is a fiction, name = uccEprPmDuFe, release date = 1996, director = ESgVPdWIeUXA comparison parameter = 166.33333333333334
+645: It is a fiction, name = uezfqeDCIhdK, release date = 1996, director = gpbriQekYJNI comparison parameter = 166.33333333333334
+646: It is a documentary, name = PfTbXwpvpxRA, release date = 1997, minutes = 161 comparison parameter = 166.41666666666666
+647: It is a cartoon, name = RyskQuQjQUyx, release date = 1997, way to create = PLASTIC comparison parameter = 166.41666666666666
+648: It is a fiction, name = LlLrvnkDbREk, release date = 1997, director = OuWmcCDjDZyV comparison parameter = 166.41666666666666
+649: It is a documentary, name = fkiQFvSPzJlK, release date = 1997, minutes = 218 comparison parameter = 166.41666666666666
+650: It is a fiction, name = HCWYqYJHYgUQ, release date = 1997, director = CtfHGSNWcluT comparison parameter = 166.41666666666666
+651: It is a fiction, name = ZmVuOWNdXSGy, release date = 1997, director = wIHAvRkSDxnx comparison parameter = 166.41666666666666
+652: It is a fiction, name = zFivEFcDSSni, release date = 1997, director = QQdwxtUZnMtS comparison parameter = 166.41666666666666
+653: It is a fiction, name = vwNKfWxJnLsH, release date = 1997, director = JXWgVwteIdgx comparison parameter = 166.41666666666666
+654: It is a documentary, name = vHgSQQZRrTxy, release date = 1997, minutes = 35 comparison parameter = 166.41666666666666
+655: It is a fiction, name = JrGcJTFSITqP, release date = 1997, director = zNFvAJhMlVun comparison parameter = 166.41666666666666
+656: It is a fiction, name = MMjqMqolKtUh, release date = 1997, director = IkeiQDYqnOxD comparison parameter = 166.41666666666666
+657: It is a fiction, name = RIzcOiaQBWDg, release date = 1997, director = ngPoKELWESEE comparison parameter = 166.41666666666666
+658: It is a documentary, name = eFegvqFNQuBi, release date = 1997, minutes = 190 comparison parameter = 166.41666666666666
+659: It is a documentary, name = UPnInaqyKpLC, release date = 1997, minutes = 136 comparison parameter = 166.41666666666666
+660: It is a fiction, name = eCLyAEOTxyun, release date = 1997, director = QEwiEtXittSq comparison parameter = 166.41666666666666
+661: It is a cartoon, name = gujBBBPcyGHG, release date = 1997, way to create = PUPPET comparison parameter = 166.41666666666666
+662: It is a documentary, name = RYXdBmgLpboS, release date = 1997, minutes = 124 comparison parameter = 166.41666666666666
+663: It is a documentary, name = DbTGuKdbMUuO, release date = 1997, minutes = 180 comparison parameter = 166.41666666666666
+664: It is a documentary, name = RTeUxaFGGLcb, release date = 1998, minutes = 54 comparison parameter = 166.5
+665: It is a cartoon, name = JfxFiRSrEnEw, release date = 1998, way to create = PLASTIC comparison parameter = 166.5
+666: It is a cartoon, name = unihqHZvjDaq, release date = 1998, way to create = PUPPET comparison parameter = 166.5
+667: It is a cartoon, name = NAisCdmdxYki, release date = 1998, way to create = DRAWED comparison parameter = 166.5
+668: It is a fiction, name = ApHmFtXOGXhN, release date = 1998, director = ThUWIFkEtrnI comparison parameter = 166.5
+669: It is a fiction, name = ikvCHumFqCVd, release date = 1998, director = CaArcwykZoJf comparison parameter = 166.5
+670: It is a cartoon, name = BFUiVUIOypRC, release date = 1998, way to create = PUPPET comparison parameter = 166.5
+671: It is a documentary, name = AZjprTtToHvL, release date = 1999, minutes = 153 comparison parameter = 166.58333333333334
+672: It is a fiction, name = ozjZOnTvfduA, release date = 1999, director = WLsEgSdgiWGJ comparison parameter = 166.58333333333334
+673: It is a documentary, name = zclOjpFjDMFn, release date = 1999, minutes = 71 comparison parameter = 166.58333333333334
+674: It is a fiction, name = KqEpimoZqAgn, release date = 1999, director = rSQkYhyijtuQ comparison parameter = 166.58333333333334
+675: It is a documentary, name = xeOvaTJatAuD, release date = 1999, minutes = 116 comparison parameter = 166.58333333333334
+676: It is a fiction, name = NcMcrrCQNKgg, release date = 1999, director = qwIYAcBQzdfO comparison parameter = 166.58333333333334
+677: It is a documentary, name = BrNThHxycvIA, release date = 1999, minutes = 116 comparison parameter = 166.58333333333334
+678: It is a fiction, name = PBMqbLCwyzCj, release date = 1999, director = xqgSOuLEbnMv comparison parameter = 166.58333333333334
+679: It is a cartoon, name = XAZHaLsTQLCk, release date = 1999, way to create = PUPPET comparison parameter = 166.58333333333334
+680: It is a documentary, name = KQqMTwcMgeMU, release date = 1999, minutes = 115 comparison parameter = 166.58333333333334
+681: It is a fiction, name = aGrYFsaYtnpY, release date = 1999, director = FFZCXblgyaJf comparison parameter = 166.58333333333334
+682: It is a documentary, name = bieSlDXcENBb, release date = 1999, minutes = 222 comparison parameter = 166.58333333333334
+683: It is a fiction, name = mqWfmjPHXQqJ, release date = 1999, director = oZNUTbLJuPKF comparison parameter = 166.58333333333334
+684: It is a fiction, name = lnWTWoAYtCmM, release date = 2000, director = yFmxdlNkvOmZ comparison parameter = 166.66666666666666
+685: It is a fiction, name = rCOtCKRZlCmy, release date = 2000, director = rHkViGwfAOeA comparison parameter = 166.66666666666666
+686: It is a cartoon, name = tZrKOLhJeSXK, release date = 2000, way to create = PLASTIC comparison parameter = 166.66666666666666
+687: It is a documentary, name = EZEusJXstugB, release date = 2000, minutes = 8 comparison parameter = 166.66666666666666
+688: It is a cartoon, name = RNEkYxmEWwlv, release date = 2000, way to create = PLASTIC comparison parameter = 166.66666666666666
+689: It is a fiction, name = ZvHrKHogfKzs, release date = 2000, director = gRgFuqIcQNcA comparison parameter = 166.66666666666666
+690: It is a cartoon, name = zxmNNPGTIBhb, release date = 2000, way to create = DRAWED comparison parameter = 166.66666666666666
+691: It is a fiction, name = wHlWOIBLVQZS, release date = 2000, director = VHhMByYWgbSq comparison parameter = 166.66666666666666
+692: It is a documentary, name = waJBeYshigTj, release date = 2001, minutes = 85 comparison parameter = 166.75
+693: It is a documentary, name = lYWaKXqYVVDy, release date = 2001, minutes = 93 comparison parameter = 166.75
+694: It is a documentary, name = CCugbGpEnRfC, release date = 2001, minutes = 42 comparison parameter = 166.75
+695: It is a documentary, name = LpJNoJTsEhlc, release date = 2001, minutes = 24 comparison parameter = 166.75
+696: It is a fiction, name = jbMKMlsRbIkF, release date = 2001, director = HLcznDyEZORM comparison parameter = 166.75
+697: It is a fiction, name = gJSnoUfFHLtG, release date = 2001, director = mDWgfcdEJvhF comparison parameter = 166.75
+698: It is a fiction, name = iAOzryUiQnNP, release date = 2001, director = klPJatuDCHqQ comparison parameter = 166.75
+699: It is a fiction, name = oTyNaMVEjehG, release date = 2001, director = cqfEhTeNpRxl comparison parameter = 166.75
+700: It is a documentary, name = MHYLyrtZiIFk, release date = 2001, minutes = 126 comparison parameter = 166.75
+701: It is a cartoon, name = HhBBxjcllSNz, release date = 2001, way to create = DRAWED comparison parameter = 166.75
+702: It is a fiction, name = zxmHSGJPIenf, release date = 2001, director = abnfYnHZljzQ comparison parameter = 166.75
+703: It is a fiction, name = UNXsWeFlYnCk, release date = 2001, director = shPqylBbUyfd comparison parameter = 166.75
+704: It is a fiction, name = ydcrnVBPeAbi, release date = 2001, director = lyqnvdahnCUg comparison parameter = 166.75
+705: It is a fiction, name = EjyqyLCmGtQR, release date = 2001, director = PDsGabJRlWUl comparison parameter = 166.75
+706: It is a documentary, name = WfEJGtYRhFOl, release date = 2001, minutes = 183 comparison parameter = 166.75
+707: It is a cartoon, name = PiJYhMuPVJOv, release date = 2001, way to create = PLASTIC comparison parameter = 166.75
+708: It is a documentary, name = UacGGZzqBjwF, release date = 2002, minutes = 75 comparison parameter = 166.83333333333334
+709: It is a cartoon, name = glnxHhAOHpLS, release date = 2002, way to create = DRAWED comparison parameter = 166.83333333333334
+710: It is a documentary, name = LRNObmqeGzeB, release date = 2002, minutes = 169 comparison parameter = 166.83333333333334
+711: It is a documentary, name = inSheXjbtiKv, release date = 2002, minutes = 44 comparison parameter = 166.83333333333334
+712: It is a fiction, name = lvNPkZUMfiua, release date = 2002, director = HCwpqelPtOuL comparison parameter = 166.83333333333334
+713: It is a documentary, name = BFsQkiPwjfsB, release date = 2002, minutes = 104 comparison parameter = 166.83333333333334
+714: It is a documentary, name = hfsKIklgWyeE, release date = 2002, minutes = 113 comparison parameter = 166.83333333333334
+715: It is a cartoon, name = AvtIhBjtebFD, release date = 2002, way to create = PUPPET comparison parameter = 166.83333333333334
+716: It is a documentary, name = HVnmmrdDCeFs, release date = 2002, minutes = 59 comparison parameter = 166.83333333333334
+717: It is a documentary, name = GrVkZFbZLBRw, release date = 2002, minutes = 50 comparison parameter = 166.83333333333334
+718: It is a documentary, name = rGZIlkstYAJC, release date = 2002, minutes = 230 comparison parameter = 166.83333333333334
+719: It is a documentary, name = kSYEZTkACBng, release date = 2002, minutes = 237 comparison parameter = 166.83333333333334
+720: It is a fiction, name = SMSEMtlDnWhE, release date = 2002, director = sqTdDwwHiWFF comparison parameter = 166.83333333333334
+721: It is a documentary, name = UcghSuGhfNsU, release date = 2002, minutes = 164 comparison parameter = 166.83333333333334
+722: It is a fiction, name = egzvGgESdzQP, release date = 2002, director = NxvJnESqvrhH comparison parameter = 166.83333333333334
+723: It is a documentary, name = UTCIKEWqlFPp, release date = 2003, minutes = 164 comparison parameter = 166.91666666666666
+724: It is a cartoon, name = UmdRHbmziNsG, release date = 2003, way to create = PUPPET comparison parameter = 166.91666666666666
+725: It is a documentary, name = LfjUarMGJOjd, release date = 2003, minutes = 170 comparison parameter = 166.91666666666666
+726: It is a documentary, name = gkUnbexgSOzt, release date = 2003, minutes = 105 comparison parameter = 166.91666666666666
+727: It is a cartoon, name = ncKDpZtivoyP, release date = 2003, way to create = DRAWED comparison parameter = 166.91666666666666
+728: It is a fiction, name = aTKQQpgeVSFs, release date = 2003, director = CepLaXgwwdpR comparison parameter = 166.91666666666666
+729: It is a fiction, name = QISCVvySxSuL, release date = 2003, director = vUaHZNiGmbhY comparison parameter = 166.91666666666666
+730: It is a documentary, name = eiXWuAHoywLy, release date = 2003, minutes = 34 comparison parameter = 166.91666666666666
+731: It is a cartoon, name = DLtPbOXQQCgc, release date = 2003, way to create = PLASTIC comparison parameter = 166.91666666666666
+732: It is a fiction, name = VaeaImQoCasR, release date = 2003, director = ipQWubRBnEGR comparison parameter = 166.91666666666666
+733: It is a documentary, name = ixdmxNYZOCoE, release date = 2003, minutes = 53 comparison parameter = 166.91666666666666
+734: It is a fiction, name = tjbJsAqKdqQS, release date = 2003, director = pHwtAmNCzSKl comparison parameter = 166.91666666666666
+735: It is a documentary, name = fGqIwwMJYGza, release date = 2004, minutes = 1 comparison parameter = 167.0
+736: It is a documentary, name = angrQzsUmHUU, release date = 2004, minutes = 38 comparison parameter = 167.0
+737: It is a fiction, name = BzaxfdbQPGJJ, release date = 2004, director = geAiqUkZeFmW comparison parameter = 167.0
+738: It is a fiction, name = ZIvLRejfxNdH, release date = 2004, director = vJRIrRaUuMuL comparison parameter = 167.0
+739: It is a fiction, name = kWgsTgdfUbNl, release date = 2004, director = CsOBHZfAoRYT comparison parameter = 167.0
+740: It is a documentary, name = YNShMSyArBAv, release date = 2004, minutes = 5 comparison parameter = 167.0
+741: It is a documentary, name = jMiMUUNErURe, release date = 2004, minutes = 214 comparison parameter = 167.0
+742: It is a documentary, name = FkMbSpLpnMDb, release date = 2004, minutes = 65 comparison parameter = 167.0
+743: It is a fiction, name = DLxCqWfFwitP, release date = 2004, director = HHRVmaCOfKwZ comparison parameter = 167.0
+744: It is a documentary, name = ksvnthTNBCiY, release date = 2004, minutes = 138 comparison parameter = 167.0
+745: It is a fiction, name = vrCWgvYIZgyZ, release date = 2004, director = jyMWgGbkDmNR comparison parameter = 167.0
+746: It is a cartoon, name = hjhodozmeoDP, release date = 2004, way to create = DRAWED comparison parameter = 167.0
+747: It is a fiction, name = nBJXIOWTtGNt, release date = 2004, director = KdsxNHoCxELf comparison parameter = 167.0
+748: It is a documentary, name = ukMFPgLnVcDA, release date = 2004, minutes = 224 comparison parameter = 167.0
+749: It is a documentary, name = wavdLKVXHIuy, release date = 2005, minutes = 100 comparison parameter = 167.08333333333334
+750: It is a documentary, name = HuFAdMQMgdxs, release date = 2005, minutes = 52 comparison parameter = 167.08333333333334
+751: It is a fiction, name = XvGooeNmxBIl, release date = 2005, director = xUtbfTKfuBUB comparison parameter = 167.08333333333334
+752: It is a cartoon, name = yNmRwPdewZkY, release date = 2005, way to create = PUPPET comparison parameter = 167.08333333333334
+753: It is a documentary, name = fwshRdabNpBi, release date = 2005, minutes = 200 comparison parameter = 167.08333333333334
+754: It is a cartoon, name = EFBePBifUWGD, release date = 2005, way to create = DRAWED comparison parameter = 167.08333333333334
+755: It is a fiction, name = LTAgoovREeDg, release date = 2005, director = nRxYaqYtwzMD comparison parameter = 167.08333333333334
+756: It is a documentary, name = HOCYgJYJkdqX, release date = 2005, minutes = 186 comparison parameter = 167.08333333333334
+757: It is a fiction, name = UJOcAchYknDM, release date = 2005, director = jMBeYmrAASYb comparison parameter = 167.08333333333334
+758: It is a fiction, name = yxgKwXqXVebz, release date = 2005, director = THdoTEgyryyq comparison parameter = 167.08333333333334
+759: It is a cartoon, name = GgXkqKMqrdij, release date = 2005, way to create = DRAWED comparison parameter = 167.08333333333334
+760: It is a fiction, name = sbrqgBtPeMgF, release date = 2005, director = oUHZZdVFgUhc comparison parameter = 167.08333333333334
+761: It is a documentary, name = MZXPLuvsojVt, release date = 2005, minutes = 34 comparison parameter = 167.08333333333334
+762: It is a fiction, name = TCmHTwNyHxIQ, release date = 2005, director = tCBYporwBqaZ comparison parameter = 167.08333333333334
+763: It is a fiction, name = ioitECCGcHJg, release date = 2005, director = YywrLmhUDfUt comparison parameter = 167.08333333333334
+764: It is a cartoon, name = hxSRigiRvifE, release date = 2005, way to create = DRAWED comparison parameter = 167.08333333333334
+765: It is a cartoon, name = tfLNeWvXRJrO, release date = 2005, way to create = PUPPET comparison parameter = 167.08333333333334
+766: It is a documentary, name = BiTlsAlIHnUj, release date = 2005, minutes = 146 comparison parameter = 167.08333333333334
+767: It is a cartoon, name = MpCjbQnQLGsF, release date = 2005, way to create = DRAWED comparison parameter = 167.08333333333334
+768: It is a fiction, name = NgOICIwVyPQZ, release date = 2005, director = spcksEohLtjR comparison parameter = 167.08333333333334
+769: It is a fiction, name = faYJJoKNLLBK, release date = 2005, director = wayaGoBsWENE comparison parameter = 167.08333333333334
+770: It is a fiction, name = VdQHWfuifXDa, release date = 2005, director = XsikksWfrLQV comparison parameter = 167.08333333333334
+771: It is a fiction, name = UfAqYDbNWvxD, release date = 2006, director = YVxkAWcrixNt comparison parameter = 167.16666666666666
+772: It is a cartoon, name = itvyDGGDrqFP, release date = 2006, way to create = DRAWED comparison parameter = 167.16666666666666
+773: It is a documentary, name = joVdKfEmbOHk, release date = 2006, minutes = 23 comparison parameter = 167.16666666666666
+774: It is a fiction, name = qVfQbURqwEuy, release date = 2006, director = hugImJVCXVyJ comparison parameter = 167.16666666666666
+775: It is a fiction, name = BBuYfXHpuEzD, release date = 2006, director = pLgerafddcJB comparison parameter = 167.16666666666666
+776: It is a documentary, name = IVwacjYPYQXC, release date = 2006, minutes = 238 comparison parameter = 167.16666666666666
+777: It is a documentary, name = WVZIsItVOeNW, release date = 2006, minutes = 105 comparison parameter = 167.16666666666666
+778: It is a documentary, name = PVGjNJanupse, release date = 2006, minutes = 111 comparison parameter = 167.16666666666666
+779: It is a fiction, name = RkwKzNTaouTF, release date = 2006, director = GgrdPJupQzok comparison parameter = 167.16666666666666
+780: It is a fiction, name = yQeaufJpZHJj, release date = 2006, director = nxIvlWxhNrhw comparison parameter = 167.16666666666666
+781: It is a documentary, name = EyBjQAglSrjO, release date = 2006, minutes = 202 comparison parameter = 167.16666666666666
+782: It is a cartoon, name = HtqVEhRdBwKJ, release date = 2006, way to create = PLASTIC comparison parameter = 167.16666666666666
+783: It is a fiction, name = kiTgodNABnzy, release date = 2006, director = xtkOSPcIKEhc comparison parameter = 167.16666666666666
+784: It is a documentary, name = lQlCUPcyaJhQ, release date = 2006, minutes = 102 comparison parameter = 167.16666666666666
+785: It is a fiction, name = BGBujYqSdVLF, release date = 2006, director = ZYeoScCSdDKc comparison parameter = 167.16666666666666
+786: It is a documentary, name = wsVpSAsygDzs, release date = 2006, minutes = 140 comparison parameter = 167.16666666666666
+787: It is a cartoon, name = haPwapgMCSDL, release date = 2007, way to create = DRAWED comparison parameter = 167.25
+788: It is a documentary, name = jWCurQjAeaUo, release date = 2007, minutes = 1 comparison parameter = 167.25
+789: It is a cartoon, name = ulESXpTItYnj, release date = 2007, way to create = DRAWED comparison parameter = 167.25
+790: It is a fiction, name = drvOpJcfUjFA, release date = 2007, director = dubPCLXCgZXT comparison parameter = 167.25
+791: It is a documentary, name = WqxzePbkZhlt, release date = 2007, minutes = 208 comparison parameter = 167.25
+792: It is a cartoon, name = kzcuyRlAcNEC, release date = 2007, way to create = DRAWED comparison parameter = 167.25
+793: It is a documentary, name = guXVGqmrwOUr, release date = 2007, minutes = 115 comparison parameter = 167.25
+794: It is a fiction, name = ISOicuxfnvoF, release date = 2007, director = WHyKAqihDhrN comparison parameter = 167.25
+795: It is a cartoon, name = xbLgKheJrKQS, release date = 2007, way to create = DRAWED comparison parameter = 167.25
+796: It is a fiction, name = GATZRmTsUtQA, release date = 2008, director = yPWAYzLrBNbd comparison parameter = 167.33333333333334
+797: It is a fiction, name = aPFzziacYDAW, release date = 2008, director = GhPJeMEiaoBA comparison parameter = 167.33333333333334
+798: It is a documentary, name = sWgTQKhfYilP, release date = 2008, minutes = 70 comparison parameter = 167.33333333333334
+799: It is a cartoon, name = MJagcWcAKuNr, release date = 2008, way to create = PLASTIC comparison parameter = 167.33333333333334
+800: It is a fiction, name = gpMohhbYkxPe, release date = 2008, director = BDEfXgNHWkRL comparison parameter = 167.33333333333334
+801: It is a fiction, name = yCLKklaoTteZ, release date = 2008, director = VfaGskGyGtSu comparison parameter = 167.33333333333334
+802: It is a cartoon, name = HdBeahWTMkUx, release date = 2008, way to create = DRAWED comparison parameter = 167.33333333333334
+803: It is a documentary, name = ZhQmSvzdvjUX, release date = 2008, minutes = 48 comparison parameter = 167.33333333333334
+804: It is a cartoon, name = WdUQRWSFbuav, release date = 2008, way to create = DRAWED comparison parameter = 167.33333333333334
+805: It is a cartoon, name = sUyAHgpRkOFu, release date = 2008, way to create = PUPPET comparison parameter = 167.33333333333334
+806: It is a cartoon, name = YjsCLJEfbGov, release date = 2008, way to create = DRAWED comparison parameter = 167.33333333333334
+807: It is a fiction, name = EFobXwywttra, release date = 2008, director = ZwuYMTIICQGz comparison parameter = 167.33333333333334
+808: It is a fiction, name = QfisbvizScBL, release date = 2008, director = oHLaxWWIfiSZ comparison parameter = 167.33333333333334
+809: It is a fiction, name = KomDaJKNzhJO, release date = 2009, director = lIeqefiFicuG comparison parameter = 167.41666666666666
+810: It is a fiction, name = iWDpETUYDOHc, release date = 2009, director = LXnqniahOgxb comparison parameter = 167.41666666666666
+811: It is a cartoon, name = xDLzBHWszoPi, release date = 2009, way to create = DRAWED comparison parameter = 167.41666666666666
+812: It is a cartoon, name = MqbQoNWmCqkb, release date = 2009, way to create = DRAWED comparison parameter = 167.41666666666666
+813: It is a documentary, name = zeXEHkhqIyEU, release date = 2009, minutes = 231 comparison parameter = 167.41666666666666
+814: It is a cartoon, name = BbfaxoFnxJtk, release date = 2009, way to create = PLASTIC comparison parameter = 167.41666666666666
+815: It is a documentary, name = NlZYTXRZqeTx, release date = 2009, minutes = 194 comparison parameter = 167.41666666666666
+816: It is a documentary, name = StRixSHxNzDB, release date = 2009, minutes = 234 comparison parameter = 167.41666666666666
+817: It is a cartoon, name = aYiHUlDxNpiw, release date = 2009, way to create = DRAWED comparison parameter = 167.41666666666666
+818: It is a fiction, name = XDNnKGwtNqkH, release date = 2009, director = JzXayEbhecQa comparison parameter = 167.41666666666666
+819: It is a fiction, name = KlVGIPiKdYmr, release date = 2009, director = jZfdTmbFuakf comparison parameter = 167.41666666666666
+820: It is a fiction, name = drFEsvhkzfrk, release date = 2009, director = WkoidkbJLxEM comparison parameter = 167.41666666666666
+821: It is a documentary, name = rbcyTZQWnaGv, release date = 2009, minutes = 114 comparison parameter = 167.41666666666666
+822: It is a fiction, name = yYSLsUhjLJWE, release date = 2009, director = sgagxRFNNRPV comparison parameter = 167.41666666666666
+823: It is a cartoon, name = ZXYOBEAEdxQG, release date = 2009, way to create = DRAWED comparison parameter = 167.41666666666666
+824: It is a cartoon, name = AUISrAgjXQqP, release date = 2010, way to create = PUPPET comparison parameter = 167.5
+825: It is a documentary, name = fNMklSEXFurI, release date = 2010, minutes = 105 comparison parameter = 167.5
+826: It is a documentary, name = uEhPMwfXUuwm, release date = 2010, minutes = 3 comparison parameter = 167.5
+827: It is a cartoon, name = wBerdAugCxdx, release date = 2010, way to create = PUPPET comparison parameter = 167.5
+828: It is a cartoon, name = ViKAnjezIUjJ, release date = 2010, way to create = DRAWED comparison parameter = 167.5
+829: It is a documentary, name = ysywqYDYyyQS, release date = 2010, minutes = 140 comparison parameter = 167.5
+830: It is a documentary, name = KsIQNWsQfEBq, release date = 2010, minutes = 147 comparison parameter = 167.5
+831: It is a cartoon, name = suZaoHrtgLoE, release date = 2010, way to create = PUPPET comparison parameter = 167.5
+832: It is a documentary, name = ULjKtOMVGiJH, release date = 2010, minutes = 170 comparison parameter = 167.5
+833: It is a cartoon, name = GbrfBkhqSguN, release date = 2010, way to create = PUPPET comparison parameter = 167.5
+834: It is a documentary, name = vCycEXHXyuFo, release date = 2010, minutes = 90 comparison parameter = 167.5
+835: It is a fiction, name = mLuHqTuyUwtu, release date = 2010, director = iTeRhulDSPqz comparison parameter = 167.5
+836: It is a fiction, name = TutTMxxgnDwm, release date = 2010, director = IZSAGbliGrtT comparison parameter = 167.5
+837: It is a cartoon, name = hDBvXkSWagpp, release date = 2010, way to create = DRAWED comparison parameter = 167.5
+838: It is a fiction, name = GGUIIqlnCXxt, release date = 2011, director = xQjHIyfConfJ comparison parameter = 167.58333333333334
+839: It is a documentary, name = ffKrCxHYxKRh, release date = 2011, minutes = 196 comparison parameter = 167.58333333333334
+840: It is a fiction, name = kAcXKrTFkYlN, release date = 2011, director = BYsbReYlAVtM comparison parameter = 167.58333333333334
+841: It is a cartoon, name = ZetvWKICihnI, release date = 2011, way to create = DRAWED comparison parameter = 167.58333333333334
+842: It is a cartoon, name = dCvejKKXwrTV, release date = 2011, way to create = DRAWED comparison parameter = 167.58333333333334
+843: It is a documentary, name = jAuoIFLHhNkH, release date = 2011, minutes = 239 comparison parameter = 167.58333333333334
+844: It is a fiction, name = hQNTOicVomDc, release date = 2011, director = ozJAmffyyZKJ comparison parameter = 167.58333333333334
+845: It is a cartoon, name = AeWyqdhOSozE, release date = 2011, way to create = PLASTIC comparison parameter = 167.58333333333334
+846: It is a cartoon, name = KsLWplAhoJTh, release date = 2011, way to create = DRAWED comparison parameter = 167.58333333333334
+847: It is a cartoon, name = coWAyUazTJqF, release date = 2011, way to create = PUPPET comparison parameter = 167.58333333333334
+848: It is a cartoon, name = otGzPAvoAPqb, release date = 2011, way to create = PLASTIC comparison parameter = 167.58333333333334
+849: It is a fiction, name = rIuTerRsmoIq, release date = 2011, director = ChIpGiNwlWSV comparison parameter = 167.58333333333334
+850: It is a fiction, name = aYnsrYVyemnp, release date = 2012, director = EsZXzSssofZM comparison parameter = 167.66666666666666
+851: It is a fiction, name = DtedsQbZmmcN, release date = 2012, director = iNqZdRLxWaiz comparison parameter = 167.66666666666666
+852: It is a cartoon, name = UBASYeCISAUf, release date = 2012, way to create = PUPPET comparison parameter = 167.66666666666666
+853: It is a documentary, name = IIVBBVbUwqFQ, release date = 2012, minutes = 4 comparison parameter = 167.66666666666666
+854: It is a cartoon, name = aHvpcWYgQFNG, release date = 2012, way to create = PLASTIC comparison parameter = 167.66666666666666
+855: It is a documentary, name = oqbDSJzpAUCy, release date = 2012, minutes = 122 comparison parameter = 167.66666666666666
+856: It is a cartoon, name = hoxZFftwtOrM, release date = 2012, way to create = DRAWED comparison parameter = 167.66666666666666
+857: It is a fiction, name = iElSaBizAVDE, release date = 2012, director = NRNcePfBJRaI comparison parameter = 167.66666666666666
+858: It is a fiction, name = powyICmEnyXA, release date = 2012, director = hkopqOzbqcdq comparison parameter = 167.66666666666666
+859: It is a documentary, name = CShmRswFWMCb, release date = 2012, minutes = 219 comparison parameter = 167.66666666666666
+860: It is a cartoon, name = CnCTFgsAWggP, release date = 2012, way to create = DRAWED comparison parameter = 167.66666666666666
+861: It is a documentary, name = CUCCgzkPIRKh, release date = 2012, minutes = 115 comparison parameter = 167.66666666666666
+862: It is a fiction, name = qVYqskJLLGuD, release date = 2012, director = HdHZRVXzCDZR comparison parameter = 167.66666666666666
+863: It is a cartoon, name = jKvlLxtQOlKV, release date = 2012, way to create = DRAWED comparison parameter = 167.66666666666666
+864: It is a documentary, name = UgyYdsygOFsY, release date = 2012, minutes = 42 comparison parameter = 167.66666666666666
+865: It is a documentary, name = bbHtOISEGJFJ, release date = 2012, minutes = 122 comparison parameter = 167.66666666666666
+866: It is a documentary, name = cWwWHCHlKdQu, release date = 2012, minutes = 145 comparison parameter = 167.66666666666666
+867: It is a cartoon, name = aDxqVTvzNKoV, release date = 2012, way to create = PUPPET comparison parameter = 167.66666666666666
+868: It is a cartoon, name = XgEKxtQqwhHd, release date = 2012, way to create = DRAWED comparison parameter = 167.66666666666666
+869: It is a cartoon, name = xbUoTCJhcKWG, release date = 2012, way to create = DRAWED comparison parameter = 167.66666666666666
+870: It is a fiction, name = LdvFYnafjdIm, release date = 2012, director = EawGijIDwnVN comparison parameter = 167.66666666666666
+871: It is a documentary, name = CTOqdjyPhCNQ, release date = 2013, minutes = 220 comparison parameter = 167.75
+872: It is a documentary, name = msoAbrevRAoF, release date = 2013, minutes = 223 comparison parameter = 167.75
+873: It is a documentary, name = HfmtSfJrfwjA, release date = 2013, minutes = 42 comparison parameter = 167.75
+874: It is a fiction, name = zUHjnpGjUNkt, release date = 2013, director = GOKHqXkehgtZ comparison parameter = 167.75
+875: It is a fiction, name = PuGrZxABXBlj, release date = 2013, director = FQwqEISdAbFO comparison parameter = 167.75
+876: It is a cartoon, name = qPaACWDGqumH, release date = 2013, way to create = PLASTIC comparison parameter = 167.75
+877: It is a fiction, name = KfXjsiwptsLV, release date = 2013, director = XBrCyFShpNWE comparison parameter = 167.75
+878: It is a cartoon, name = yveHhRUwkgFv, release date = 2013, way to create = PUPPET comparison parameter = 167.75
+879: It is a documentary, name = OUezcjxcOnsn, release date = 2013, minutes = 160 comparison parameter = 167.75
+880: It is a documentary, name = BZyxnPqlQSpn, release date = 2013, minutes = 39 comparison parameter = 167.75
+881: It is a cartoon, name = FgRGWrsmOHEi, release date = 2013, way to create = PUPPET comparison parameter = 167.75
+882: It is a cartoon, name = OrrbNqKhfEQH, release date = 2013, way to create = DRAWED comparison parameter = 167.75
+883: It is a fiction, name = WrEIBzFGMWjs, release date = 2013, director = KwlYJxmKPPPR comparison parameter = 167.75
+884: It is a cartoon, name = tGOphYVWOEJr, release date = 2013, way to create = PLASTIC comparison parameter = 167.75
+885: It is a documentary, name = JtzXcWFWgrWU, release date = 2013, minutes = 114 comparison parameter = 167.75
+886: It is a cartoon, name = zMcAZlfAkeSR, release date = 2013, way to create = DRAWED comparison parameter = 167.75
+887: It is a documentary, name = HsSJgIuzIASa, release date = 2013, minutes = 183 comparison parameter = 167.75
+888: It is a fiction, name = ptgFGDeudFhH, release date = 2014, director = GwiSmxZHQrSD comparison parameter = 167.83333333333334
+889: It is a fiction, name = fcEhDBxwnAfH, release date = 2014, director = YbJKyCqRsnYN comparison parameter = 167.83333333333334
+890: It is a cartoon, name = GITFxQKZzzkr, release date = 2014, way to create = PLASTIC comparison parameter = 167.83333333333334
+891: It is a fiction, name = cuhbCboWquSl, release date = 2014, director = ZMNdNdeCSOUp comparison parameter = 167.83333333333334
+892: It is a fiction, name = wDObqlmURHIn, release date = 2014, director = rSaDNiMGXSEK comparison parameter = 167.83333333333334
+893: It is a cartoon, name = tTGWSYymogos, release date = 2014, way to create = PUPPET comparison parameter = 167.83333333333334
+894: It is a cartoon, name = ideuzyKrSzrx, release date = 2014, way to create = DRAWED comparison parameter = 167.83333333333334
+895: It is a cartoon, name = sWPzfElbTWhF, release date = 2014, way to create = DRAWED comparison parameter = 167.83333333333334
+896: It is a documentary, name = IrfCCZABnVbF, release date = 2014, minutes = 206 comparison parameter = 167.83333333333334
+897: It is a fiction, name = vvuedNOewIiG, release date = 2014, director = YWUheSqeZMky comparison parameter = 167.83333333333334
+898: It is a cartoon, name = toTlUmPjwGor, release date = 2014, way to create = PLASTIC comparison parameter = 167.83333333333334
+899: It is a cartoon, name = FZXuqTnlNAvW, release date = 2014, way to create = PUPPET comparison parameter = 167.83333333333334
+900: It is a cartoon, name = elNgnvXqNbPg, release date = 2014, way to create = DRAWED comparison parameter = 167.83333333333334
+901: It is a documentary, name = TIyCcOfphPjF, release date = 2015, minutes = 91 comparison parameter = 167.91666666666666
+902: It is a fiction, name = xGdwbTnxqNCo, release date = 2015, director = asCsNlfQpIGu comparison parameter = 167.91666666666666
+903: It is a cartoon, name = tEmylxMeKSfF, release date = 2015, way to create = DRAWED comparison parameter = 167.91666666666666
+904: It is a cartoon, name = LiTlTXXIlxGN, release date = 2015, way to create = PLASTIC comparison parameter = 167.91666666666666
+905: It is a fiction, name = LQSchJfWuFAM, release date = 2015, director = HLCusqKbrvMO comparison parameter = 167.91666666666666
+906: It is a fiction, name = xoQyrOFGdulP, release date = 2015, director = sFPYvSwqopaJ comparison parameter = 167.91666666666666
+907: It is a cartoon, name = VSycRNlVYxGA, release date = 2015, way to create = DRAWED comparison parameter = 167.91666666666666
+908: It is a cartoon, name = UdpExqeAbQDw, release date = 2015, way to create = DRAWED comparison parameter = 167.91666666666666
+909: It is a fiction, name = rNrCUKejqjBw, release date = 2015, director = lPOlRIFyOWMG comparison parameter = 167.91666666666666
+910: It is a fiction, name = mKWhaXKxVWmk, release date = 2015, director = zGBxMEBpMqiw comparison parameter = 167.91666666666666
+911: It is a cartoon, name = eTZsZhdIbgKq, release date = 2015, way to create = PLASTIC comparison parameter = 167.91666666666666
+912: It is a cartoon, name = tEbbEbognEPU, release date = 2015, way to create = DRAWED comparison parameter = 167.91666666666666
+913: It is a cartoon, name = zosDvBMrjCLD, release date = 2016, way to create = DRAWED comparison parameter = 168.0
+914: It is a fiction, name = ifIujwnTFxDh, release date = 2016, director = PMsTcNnXNiXG comparison parameter = 168.0
+915: It is a documentary, name = dbkxRurGljlZ, release date = 2016, minutes = 100 comparison parameter = 168.0
+916: It is a documentary, name = SIxlonvdDjCQ, release date = 2016, minutes = 203 comparison parameter = 168.0
+917: It is a documentary, name = nnvCLQDNmWQS, release date = 2016, minutes = 102 comparison parameter = 168.0
+918: It is a fiction, name = CHbIAcpJXPCb, release date = 2016, director = IUoaYBTuycNc comparison parameter = 168.0
+919: It is a fiction, name = ahSWVyzWoaIk, release date = 2016, director = RRJhQYPmuYaE comparison parameter = 168.0
+920: It is a cartoon, name = qMvvvNGYjSdH, release date = 2016, way to create = DRAWED comparison parameter = 168.0
+921: It is a fiction, name = fQSSmyvnVLrq, release date = 2016, director = rlLecsqeCiQl comparison parameter = 168.0
+922: It is a cartoon, name = KHnRHjPEgZWV, release date = 2016, way to create = DRAWED comparison parameter = 168.0
+923: It is a cartoon, name = vocZQheyPxgN, release date = 2016, way to create = PUPPET comparison parameter = 168.0
+924: It is a documentary, name = XhjfBpbmuLGp, release date = 2016, minutes = 234 comparison parameter = 168.0
+925: It is a cartoon, name = iLftbzSVKjIu, release date = 2016, way to create = DRAWED comparison parameter = 168.0
+926: It is a fiction, name = NRRlDzAWKkwy, release date = 2016, director = tOMtStDxGmwK comparison parameter = 168.0
+927: It is a fiction, name = spiJnWWxpJmF, release date = 2016, director = KltOzPQbtjFO comparison parameter = 168.0
+928: It is a documentary, name = tfuSUsIxqLYf, release date = 2016, minutes = 185 comparison parameter = 168.0
+929: It is a documentary, name = hHfqmWugjOuC, release date = 2016, minutes = 116 comparison parameter = 168.0
+930: It is a documentary, name = GNUdHoOgWfjr, release date = 2017, minutes = 220 comparison parameter = 168.08333333333334
+931: It is a cartoon, name = EOfaXZDDQfGh, release date = 2017, way to create = PLASTIC comparison parameter = 168.08333333333334
+932: It is a fiction, name = CDAWwlKpCGkm, release date = 2017, director = OjDYsBhhBZvy comparison parameter = 168.08333333333334
+933: It is a cartoon, name = rgUgzogntYTX, release date = 2017, way to create = DRAWED comparison parameter = 168.08333333333334
+934: It is a cartoon, name = FiPIPvCwdVjG, release date = 2017, way to create = PUPPET comparison parameter = 168.08333333333334
+935: It is a fiction, name = cSfWjCOWAXPV, release date = 2017, director = BJhUkFBQasPl comparison parameter = 168.08333333333334
+936: It is a cartoon, name = oDAPbKagyipz, release date = 2017, way to create = PUPPET comparison parameter = 168.08333333333334
+937: It is a cartoon, name = UJFBinORuTXF, release date = 2017, way to create = DRAWED comparison parameter = 168.08333333333334
+938: It is a cartoon, name = YlRqtCGyhpDG, release date = 2017, way to create = PLASTIC comparison parameter = 168.08333333333334
+939: It is a cartoon, name = BYwDPgSPKvYk, release date = 2017, way to create = PLASTIC comparison parameter = 168.08333333333334
+940: It is a cartoon, name = mlGmeHykYrAU, release date = 2017, way to create = PUPPET comparison parameter = 168.08333333333334
+941: It is a fiction, name = uZANfYQKovnI, release date = 2017, director = fBvcTFQpjlbV comparison parameter = 168.08333333333334
+942: It is a documentary, name = jInqrTUYlxOF, release date = 2017, minutes = 234 comparison parameter = 168.08333333333334
+943: It is a cartoon, name = YKbxTErsADQa, release date = 2017, way to create = DRAWED comparison parameter = 168.08333333333334
+944: It is a cartoon, name = gJSGIRVJvbGe, release date = 2017, way to create = DRAWED comparison parameter = 168.08333333333334
+945: It is a documentary, name = gcNEBHVtYNFx, release date = 2018, minutes = 222 comparison parameter = 168.16666666666666
+946: It is a fiction, name = SBEkhTreSYgZ, release date = 2018, director = VTrsrAXPZAMB comparison parameter = 168.16666666666666
+947: It is a documentary, name = FnXHJnjxOFvL, release date = 2018, minutes = 73 comparison parameter = 168.16666666666666
+948: It is a documentary, name = WdRsfeRMDIsy, release date = 2018, minutes = 52 comparison parameter = 168.16666666666666
+949: It is a fiction, name = GYPpyRwjgmfU, release date = 2018, director = OKgfNyQGAZPY comparison parameter = 168.16666666666666
+950: It is a fiction, name = LilgIHcooRfr, release date = 2018, director = YlTIFAbWgTCD comparison parameter = 168.16666666666666
+951: It is a fiction, name = HPZVMuqodzvy, release date = 2018, director = tiqmdYDTkLBy comparison parameter = 168.16666666666666
+952: It is a cartoon, name = fgIHEPwtJvba, release date = 2018, way to create = PLASTIC comparison parameter = 168.16666666666666
+953: It is a fiction, name = ExEpWlZJRYwC, release date = 2018, director = LHTjtJQXJGhQ comparison parameter = 168.16666666666666
+954: It is a cartoon, name = tEQrShLVTRII, release date = 2018, way to create = PUPPET comparison parameter = 168.16666666666666
+955: It is a fiction, name = QaYAWMisEcLW, release date = 2018, director = KqKaqCcQtdAO comparison parameter = 168.16666666666666
+956: It is a fiction, name = BaHawRtDmupO, release date = 2018, director = VqiJkzwWdEnj comparison parameter = 168.16666666666666
+957: It is a cartoon, name = fZEmXLhvegUN, release date = 2018, way to create = PUPPET comparison parameter = 168.16666666666666
+958: It is a documentary, name = UjBbPpOPUpGJ, release date = 2018, minutes = 158 comparison parameter = 168.16666666666666
+959: It is a fiction, name = rDPqpeVmhuwK, release date = 2018, director = cMADyHmTzYIj comparison parameter = 168.16666666666666
+960: It is a documentary, name = evDqQnlymirV, release date = 2018, minutes = 70 comparison parameter = 168.16666666666666
+961: It is a fiction, name = JNogxrmGzIHa, release date = 2018, director = yZMlRczPlYHD comparison parameter = 168.16666666666666
+962: It is a cartoon, name = VCAEOeLbxAxs, release date = 2018, way to create = DRAWED comparison parameter = 168.16666666666666
+963: It is a documentary, name = hhZypaDrlPCX, release date = 2019, minutes = 210 comparison parameter = 168.25
+964: It is a fiction, name = qncytqxXLRWw, release date = 2019, director = kOmeEXarqmOn comparison parameter = 168.25
+965: It is a fiction, name = jEifcpKCBwNE, release date = 2019, director = ZGEEwYHCEYym comparison parameter = 168.25
+966: It is a cartoon, name = PttzKwmeMLTL, release date = 2019, way to create = DRAWED comparison parameter = 168.25
+967: It is a fiction, name = fCvcaWEhtpGN, release date = 2019, director = QXOTbOYjGJWt comparison parameter = 168.25
+968: It is a documentary, name = osLUgCHqDsms, release date = 2019, minutes = 20 comparison parameter = 168.25
+969: It is a documentary, name = QMYCfPFIiWkQ, release date = 2019, minutes = 215 comparison parameter = 168.25
+970: It is a fiction, name = TFzzRLcwBYer, release date = 2019, director = uWdaKZAwsnDf comparison parameter = 168.25
+971: It is a fiction, name = AFeLQLfFPXeA, release date = 2019, director = TcawYDODdQqe comparison parameter = 168.25
+972: It is a documentary, name = EFvehgLhKefL, release date = 2019, minutes = 178 comparison parameter = 168.25
+973: It is a fiction, name = yQChSOGbApdr, release date = 2019, director = NtijRieUJpTp comparison parameter = 168.25
+974: It is a cartoon, name = EaWWseGVHFQe, release date = 2019, way to create = DRAWED comparison parameter = 168.25
+975: It is a documentary, name = MrzMQBrHACWe, release date = 2019, minutes = 163 comparison parameter = 168.25
+976: It is a documentary, name = JzPCPVjituXz, release date = 2020, minutes = 76 comparison parameter = 168.33333333333334
+977: It is a fiction, name = XuMHTFRDKWrF, release date = 2020, director = WuZLKZefTHjk comparison parameter = 168.33333333333334
+978: It is a documentary, name = VMBLdnWeRNGv, release date = 2020, minutes = 9 comparison parameter = 168.33333333333334
+979: It is a cartoon, name = DWBYvkwvpQMc, release date = 2020, way to create = DRAWED comparison parameter = 168.33333333333334
+980: It is a documentary, name = ycLtxSPLZDkq, release date = 2020, minutes = 138 comparison parameter = 168.33333333333334
+981: It is a documentary, name = SfqziFLlKnMU, release date = 2020, minutes = 61 comparison parameter = 168.33333333333334
+982: It is a cartoon, name = NkQnlMFIECcY, release date = 2020, way to create = DRAWED comparison parameter = 168.33333333333334
+983: It is a documentary, name = lECWNEaWvzaH, release date = 2020, minutes = 196 comparison parameter = 168.33333333333334
+984: It is a fiction, name = dDVuHqJRoNwt, release date = 2020, director = jVwvuFGjwKHk comparison parameter = 168.33333333333334
+985: It is a cartoon, name = ERghsRaJGnSs, release date = 2021, way to create = PLASTIC comparison parameter = 168.41666666666666
+986: It is a documentary, name = ywFEBOXXiZaC, release date = 2021, minutes = 238 comparison parameter = 168.41666666666666
+987: It is a fiction, name = lvfdhseemrsi, release date = 2021, director = jERddYIpOxmu comparison parameter = 168.41666666666666
+988: It is a fiction, name = JAdavrOvdzLv, release date = 2021, director = HqtDdydlPUZL comparison parameter = 168.41666666666666
+989: It is a fiction, name = JJzYfEWPOPKe, release date = 2021, director = pHSJymzjaezX comparison parameter = 168.41666666666666
+990: It is a documentary, name = pNhTZRSbSaWb, release date = 2021, minutes = 80 comparison parameter = 168.41666666666666
+991: It is a cartoon, name = dVHWewhYwCsf, release date = 2021, way to create = PLASTIC comparison parameter = 168.41666666666666
+992: It is a fiction, name = GQTWAsrIybln, release date = 2021, director = ZxYDodQedgTB comparison parameter = 168.41666666666666
+993: It is a cartoon, name = QyXujELroZTf, release date = 2021, way to create = DRAWED comparison parameter = 168.41666666666666
+994: It is a cartoon, name = PUTPwSdKjjKp, release date = 2021, way to create = PLASTIC comparison parameter = 168.41666666666666
+995: It is a fiction, name = BZEMDxEWTGSc, release date = 2021, director = kkQjvwOCVbXu comparison parameter = 168.41666666666666
+996: It is a cartoon, name = JPsEYGdBTVvd, release date = 2021, way to create = DRAWED comparison parameter = 168.41666666666666
+997: It is a documentary, name = CqWntrZnqJak, release date = 2021, minutes = 204 comparison parameter = 168.41666666666666
+998: It is a fiction, name = SgPxSaNurlOj, release date = 2021, director = JqhyVIqBxeIE comparison parameter = 168.41666666666666
+999: It is a documentary, name = IqpZRUUaFZJG, release date = 2021, minutes = 213 comparison parameter = 168.41666666666666
+1000: It is a fiction, name = PiIDoQYZZHJi, release date = 2021, director = gefweYPisIXI comparison parameter = 168.41666666666666
